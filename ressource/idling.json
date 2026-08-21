@@ -1,0 +1,3487 @@
+[
+    {
+        "Immatriculation": "FR-281-MN",
+        "Dur\u00e9e d'arr\u00eat": 0.841496712962963,
+        "Carburat gaspill\u00e9": 80.35999999999999
+    },
+    {
+        "Immatriculation": "FT-601-CN",
+        "Dur\u00e9e d'arr\u00eat": 0.2941284259259259,
+        "Carburat gaspill\u00e9": 29.380000000000003
+    },
+    {
+        "Immatriculation": "GM-743-ST",
+        "Dur\u00e9e d'arr\u00eat": 0.10419396990740741,
+        "Carburat gaspill\u00e9": 5.89
+    },
+    {
+        "Immatriculation": "GM-757-SV",
+        "Dur\u00e9e d'arr\u00eat": 0.4888592708333333,
+        "Carburat gaspill\u00e9": 80.67999999999999
+    },
+    {
+        "Immatriculation": "FC-613-XX",
+        "Dur\u00e9e d'arr\u00eat": 0.3808314351851852,
+        "Carburat gaspill\u00e9": 41.45999999999999
+    },
+    {
+        "Immatriculation": "GH-033-QX",
+        "Dur\u00e9e d'arr\u00eat": 0.05874788194444444,
+        "Carburat gaspill\u00e9": 4.6499999999999995
+    },
+    {
+        "Immatriculation": "GS-381-DM",
+        "Dur\u00e9e d'arr\u00eat": 0.1471920486111111,
+        "Carburat gaspill\u00e9": 16.540000000000003
+    },
+    {
+        "Immatriculation": "FC-143-XX",
+        "Dur\u00e9e d'arr\u00eat": 0.6805742824074075,
+        "Carburat gaspill\u00e9": 66.21000000000001
+    },
+    {
+        "Immatriculation": "GM-405-VD",
+        "Dur\u00e9e d'arr\u00eat": 0.29788137731481484,
+        "Carburat gaspill\u00e9": 35.81
+    },
+    {
+        "Immatriculation": "EQ-199-DT",
+        "Dur\u00e9e d'arr\u00eat": 0.08849784722222222,
+        "Carburat gaspill\u00e9": 11.209999999999999
+    },
+    {
+        "Immatriculation": "FQ-538-ZT",
+        "Dur\u00e9e d'arr\u00eat": 0.02951356481481482,
+        "Carburat gaspill\u00e9": 3.5500000000000003
+    },
+    {
+        "Immatriculation": "FR-723-EP",
+        "Dur\u00e9e d'arr\u00eat": 0.028098773148148147,
+        "Carburat gaspill\u00e9": 1.42
+    },
+    {
+        "Immatriculation": "EZ-361-HN",
+        "Dur\u00e9e d'arr\u00eat": 0.011977800925925926,
+        "Carburat gaspill\u00e9": 1.3599999999999999
+    },
+    {
+        "Immatriculation": "ER-129-QA",
+        "Dur\u00e9e d'arr\u00eat": 0.046192685185185184,
+        "Carburat gaspill\u00e9": 3.8
+    },
+    {
+        "Immatriculation": "GH-097-QX",
+        "Dur\u00e9e d'arr\u00eat": 0.011412071759259259,
+        "Carburat gaspill\u00e9": 1.41
+    },
+    {
+        "Immatriculation": "EF-011-JE",
+        "Dur\u00e9e d'arr\u00eat": 0.011608912037037037,
+        "Carburat gaspill\u00e9": 1.1099999999999999
+    },
+    {
+        "Immatriculation": "GN-784-JD",
+        "Dur\u00e9e d'arr\u00eat": 0.14119158564814815,
+        "Carburat gaspill\u00e9": 19.47
+    },
+    {
+        "Immatriculation": "EZ-364-HN",
+        "Dur\u00e9e d'arr\u00eat": 0.018437627314814815,
+        "Carburat gaspill\u00e9": 0.97
+    },
+    {
+        "Immatriculation": "EF-792-NH",
+        "Dur\u00e9e d'arr\u00eat": 0.02732347222222222,
+        "Carburat gaspill\u00e9": 2.06
+    },
+    {
+        "Immatriculation": "DW-789-PY",
+        "Dur\u00e9e d'arr\u00eat": 0.030963449074074077,
+        "Carburat gaspill\u00e9": 3.48
+    },
+    {
+        "Immatriculation": "ES-117-AK",
+        "Dur\u00e9e d'arr\u00eat": 0.01792945601851852,
+        "Carburat gaspill\u00e9": 1.23
+    },
+    {
+        "Immatriculation": "GY-935-WQ",
+        "Dur\u00e9e d'arr\u00eat": 0.1441857986111111,
+        "Carburat gaspill\u00e9": 22.890000000000004
+    },
+    {
+        "Immatriculation": "GZ-282-BH",
+        "Dur\u00e9e d'arr\u00eat": 0.30480993055555555,
+        "Carburat gaspill\u00e9": 34.529999999999994
+    },
+    {
+        "Immatriculation": "EP-450-YV",
+        "Dur\u00e9e d'arr\u00eat": 0.02628896990740741,
+        "Carburat gaspill\u00e9": 1.92
+    },
+    {
+        "Immatriculation": "ER-455-QA",
+        "Dur\u00e9e d'arr\u00eat": 0.019392511574074074,
+        "Carburat gaspill\u00e9": 1.98
+    },
+    {
+        "Immatriculation": "FT-973-PK",
+        "Dur\u00e9e d'arr\u00eat": 0.019540127314814814,
+        "Carburat gaspill\u00e9": 1.34
+    },
+    {
+        "Immatriculation": "EP-959-YT",
+        "Dur\u00e9e d'arr\u00eat": 0.045717916666666664,
+        "Carburat gaspill\u00e9": 3.7699999999999996
+    },
+    {
+        "Immatriculation": "FR-072-MN",
+        "Dur\u00e9e d'arr\u00eat": 0.018619548611111113,
+        "Carburat gaspill\u00e9": 2.42
+    },
+    {
+        "Immatriculation": "GR-621-RJ",
+        "Dur\u00e9e d'arr\u00eat": 0.09619172453703703,
+        "Carburat gaspill\u00e9": 10.399999999999999
+    },
+    {
+        "Immatriculation": "GW-638-LM",
+        "Dur\u00e9e d'arr\u00eat": 0.16050675925925925,
+        "Carburat gaspill\u00e9": 18.879999999999995
+    },
+    {
+        "Immatriculation": "EF-177-HN",
+        "Dur\u00e9e d'arr\u00eat": 0.08226018518518519,
+        "Carburat gaspill\u00e9": 6.809999999999999
+    },
+    {
+        "Immatriculation": "FQ-835-ZT",
+        "Dur\u00e9e d'arr\u00eat": 0.030286550925925925,
+        "Carburat gaspill\u00e9": 3.6100000000000003
+    },
+    {
+        "Immatriculation": "GY-797-WQ",
+        "Dur\u00e9e d'arr\u00eat": 0.13671534722222223,
+        "Carburat gaspill\u00e9": 17.07
+    },
+    {
+        "Immatriculation": "FA-049-YA",
+        "Dur\u00e9e d'arr\u00eat": 0.2995199421296296,
+        "Carburat gaspill\u00e9": 30.290000000000003
+    },
+    {
+        "Immatriculation": "FS-384-GQ",
+        "Dur\u00e9e d'arr\u00eat": 1.7492960879629629,
+        "Carburat gaspill\u00e9": 152.46
+    },
+    {
+        "Immatriculation": "FS-992-GP",
+        "Dur\u00e9e d'arr\u00eat": 1.5763144791666666,
+        "Carburat gaspill\u00e9": 129.70999999999998
+    },
+    {
+        "Immatriculation": "GN-775-AJ",
+        "Dur\u00e9e d'arr\u00eat": 2.163041747685185,
+        "Carburat gaspill\u00e9": 204.29
+    },
+    {
+        "Immatriculation": "ES-665-HN",
+        "Dur\u00e9e d'arr\u00eat": 0.02850930555555556,
+        "Carburat gaspill\u00e9": 2.86
+    },
+    {
+        "Immatriculation": "CD-674-AR",
+        "Dur\u00e9e d'arr\u00eat": 0.22662851851851853,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "DT-858-QB",
+        "Dur\u00e9e d'arr\u00eat": 0.03328509259259259,
+        "Carburat gaspill\u00e9": 2.4400000000000004
+    },
+    {
+        "Immatriculation": "GK-174-SZ",
+        "Dur\u00e9e d'arr\u00eat": 0.29277582175925926,
+        "Carburat gaspill\u00e9": 53.029999999999994
+    },
+    {
+        "Immatriculation": "FT-777-DD",
+        "Dur\u00e9e d'arr\u00eat": 0.07535614583333333,
+        "Carburat gaspill\u00e9": 3.92
+    },
+    {
+        "Immatriculation": "FT-906-HJ",
+        "Dur\u00e9e d'arr\u00eat": 0.016402546296296297,
+        "Carburat gaspill\u00e9": 1.4
+    },
+    {
+        "Immatriculation": "FT-035-HK",
+        "Dur\u00e9e d'arr\u00eat": 2.088262303240741,
+        "Carburat gaspill\u00e9": 150.79000000000002
+    },
+    {
+        "Immatriculation": "FT-291-RM",
+        "Dur\u00e9e d'arr\u00eat": 2.2239019444444446,
+        "Carburat gaspill\u00e9": 198.64000000000001
+    },
+    {
+        "Immatriculation": "ER-258-CZ",
+        "Dur\u00e9e d'arr\u00eat": 0.0795997800925926,
+        "Carburat gaspill\u00e9": 6.239999999999999
+    },
+    {
+        "Immatriculation": "FW-267-LX",
+        "Dur\u00e9e d'arr\u00eat": 2.0428780208333333,
+        "Carburat gaspill\u00e9": 148.78
+    },
+    {
+        "Immatriculation": "GJ-976-EM",
+        "Dur\u00e9e d'arr\u00eat": 0.8254217708333335,
+        "Carburat gaspill\u00e9": 147.58999999999997
+    },
+    {
+        "Immatriculation": "GJ-641-DD",
+        "Dur\u00e9e d'arr\u00eat": 0.05815547453703703,
+        "Carburat gaspill\u00e9": 6.71
+    },
+    {
+        "Immatriculation": "GL-996-FA",
+        "Dur\u00e9e d'arr\u00eat": 0.6079036689814815,
+        "Carburat gaspill\u00e9": 92.88000000000002
+    },
+    {
+        "Immatriculation": "GL-123-JV",
+        "Dur\u00e9e d'arr\u00eat": 0.0828972337962963,
+        "Carburat gaspill\u00e9": 7.200000000000001
+    },
+    {
+        "Immatriculation": "GL-169-ZR",
+        "Dur\u00e9e d'arr\u00eat": 0.8030645717592592,
+        "Carburat gaspill\u00e9": 136.88000000000002
+    },
+    {
+        "Immatriculation": "GM-470-SV",
+        "Dur\u00e9e d'arr\u00eat": 1.422734236111111,
+        "Carburat gaspill\u00e9": 220.8199999999999
+    },
+    {
+        "Immatriculation": "GM-047-TG",
+        "Dur\u00e9e d'arr\u00eat": 0.11173,
+        "Carburat gaspill\u00e9": 7.999999999999999
+    },
+    {
+        "Immatriculation": "EF-957-KN",
+        "Dur\u00e9e d'arr\u00eat": 0.06954515046296296,
+        "Carburat gaspill\u00e9": 2.88
+    },
+    {
+        "Immatriculation": "HL-932-HV",
+        "Dur\u00e9e d'arr\u00eat": 0.03320329861111111,
+        "Carburat gaspill\u00e9": 3.15
+    },
+    {
+        "Immatriculation": "DV-909-PS",
+        "Dur\u00e9e d'arr\u00eat": 0.009690300925925925,
+        "Carburat gaspill\u00e9": 1.01
+    },
+    {
+        "Immatriculation": "GK-475-SK",
+        "Dur\u00e9e d'arr\u00eat": 0.03447466435185185,
+        "Carburat gaspill\u00e9": 3.3199999999999994
+    },
+    {
+        "Immatriculation": "GK-374-MF",
+        "Dur\u00e9e d'arr\u00eat": 0.005575185185185186,
+        "Carburat gaspill\u00e9": 0.42
+    },
+    {
+        "Immatriculation": "GM-165-RV",
+        "Dur\u00e9e d'arr\u00eat": 0.005669756944444444,
+        "Carburat gaspill\u00e9": 0.97
+    },
+    {
+        "Immatriculation": "FR-333-DT",
+        "Dur\u00e9e d'arr\u00eat": 0.007176574074074075,
+        "Carburat gaspill\u00e9": 1.28
+    },
+    {
+        "Immatriculation": "FE-836-VL",
+        "Dur\u00e9e d'arr\u00eat": 0.11603361111111112,
+        "Carburat gaspill\u00e9": 12.8
+    },
+    {
+        "Immatriculation": "HB-190-HV",
+        "Dur\u00e9e d'arr\u00eat": 0.012092141203703704,
+        "Carburat gaspill\u00e9": 2.0900000000000003
+    },
+    {
+        "Immatriculation": "GN-994-CN",
+        "Dur\u00e9e d'arr\u00eat": 0.04895880787037037,
+        "Carburat gaspill\u00e9": 4.7
+    },
+    {
+        "Immatriculation": "FR-055-PW",
+        "Dur\u00e9e d'arr\u00eat": 0.020807824074074076,
+        "Carburat gaspill\u00e9": 0.85
+    },
+    {
+        "Immatriculation": "GL-599-MX",
+        "Dur\u00e9e d'arr\u00eat": 0.09227417824074073,
+        "Carburat gaspill\u00e9": 6.74
+    },
+    {
+        "Immatriculation": "GM-182-MC",
+        "Dur\u00e9e d'arr\u00eat": 0.009667604166666666,
+        "Carburat gaspill\u00e9": 0.87
+    },
+    {
+        "Immatriculation": "GL-095-YD",
+        "Dur\u00e9e d'arr\u00eat": 0.01582958333333333,
+        "Carburat gaspill\u00e9": 2.1399999999999997
+    },
+    {
+        "Immatriculation": "GM-259-XL",
+        "Dur\u00e9e d'arr\u00eat": 0.01456935185185185,
+        "Carburat gaspill\u00e9": 2.02
+    },
+    {
+        "Immatriculation": "GM-164-CV",
+        "Dur\u00e9e d'arr\u00eat": 0.017758576388888888,
+        "Carburat gaspill\u00e9": 0.29
+    },
+    {
+        "Immatriculation": "GM-723-EY",
+        "Dur\u00e9e d'arr\u00eat": 0.008179537037037037,
+        "Carburat gaspill\u00e9": 1.38
+    },
+    {
+        "Immatriculation": "EQ-331-PS",
+        "Dur\u00e9e d'arr\u00eat": 0.003125173611111111,
+        "Carburat gaspill\u00e9": 0.49
+    },
+    {
+        "Immatriculation": "FE-007-VM",
+        "Dur\u00e9e d'arr\u00eat": 0.24552225694444443,
+        "Carburat gaspill\u00e9": 27.099999999999998
+    },
+    {
+        "Immatriculation": "FS-860-GQ",
+        "Dur\u00e9e d'arr\u00eat": 0.06271,
+        "Carburat gaspill\u00e9": 8.17
+    },
+    {
+        "Immatriculation": "GL-429-AN",
+        "Dur\u00e9e d'arr\u00eat": 0.15418849537037038,
+        "Carburat gaspill\u00e9": 11.459999999999999
+    },
+    {
+        "Immatriculation": "FR-854-EA",
+        "Dur\u00e9e d'arr\u00eat": 0.01579947916666667,
+        "Carburat gaspill\u00e9": 1.72
+    },
+    {
+        "Immatriculation": "HK-578-DS",
+        "Dur\u00e9e d'arr\u00eat": 0.04740252314814815,
+        "Carburat gaspill\u00e9": 4.24
+    },
+    {
+        "Immatriculation": "HA-851-RZ",
+        "Dur\u00e9e d'arr\u00eat": 0.08968059027777778,
+        "Carburat gaspill\u00e9": 8.32
+    },
+    {
+        "Immatriculation": "HB-986-WN",
+        "Dur\u00e9e d'arr\u00eat": 0.04988550925925926,
+        "Carburat gaspill\u00e9": 7.870000000000001
+    },
+    {
+        "Immatriculation": "HJ-879-YC",
+        "Dur\u00e9e d'arr\u00eat": 0.0084415625,
+        "Carburat gaspill\u00e9": 1.1900000000000002
+    },
+    {
+        "Immatriculation": "FQ-744-SP",
+        "Dur\u00e9e d'arr\u00eat": 0.10172695601851853,
+        "Carburat gaspill\u00e9": 7.500000000000001
+    },
+    {
+        "Immatriculation": "HK-141-EC",
+        "Dur\u00e9e d'arr\u00eat": 0.02518986111111111,
+        "Carburat gaspill\u00e9": 2.7
+    },
+    {
+        "Immatriculation": "HK-095-BP",
+        "Dur\u00e9e d'arr\u00eat": 0.05183876157407407,
+        "Carburat gaspill\u00e9": 4.29
+    },
+    {
+        "Immatriculation": "GY-968-QC",
+        "Dur\u00e9e d'arr\u00eat": 0.01811383101851852,
+        "Carburat gaspill\u00e9": 2.14
+    },
+    {
+        "Immatriculation": "GX-919-WX",
+        "Dur\u00e9e d'arr\u00eat": 0.08136164351851852,
+        "Carburat gaspill\u00e9": 6.33
+    },
+    {
+        "Immatriculation": "GR-794-YF",
+        "Dur\u00e9e d'arr\u00eat": 0.04660032407407407,
+        "Carburat gaspill\u00e9": 3.73
+    },
+    {
+        "Immatriculation": "HB-141-VX",
+        "Dur\u00e9e d'arr\u00eat": 0.7808641666666667,
+        "Carburat gaspill\u00e9": 82.24000000000001
+    },
+    {
+        "Immatriculation": "HB-491-NW",
+        "Dur\u00e9e d'arr\u00eat": 1.152350798611111,
+        "Carburat gaspill\u00e9": 134.88
+    },
+    {
+        "Immatriculation": "DX-989-DN",
+        "Dur\u00e9e d'arr\u00eat": 0.0443821875,
+        "Carburat gaspill\u00e9": 4.909999999999999
+    },
+    {
+        "Immatriculation": "GY-312-LH",
+        "Dur\u00e9e d'arr\u00eat": 0.8256975462962962,
+        "Carburat gaspill\u00e9": 110.18999999999998
+    },
+    {
+        "Immatriculation": "GY-707-TF",
+        "Dur\u00e9e d'arr\u00eat": 0.5840888425925925,
+        "Carburat gaspill\u00e9": 53.17000000000001
+    },
+    {
+        "Immatriculation": "GQ-403-JP",
+        "Dur\u00e9e d'arr\u00eat": 0.5182427083333333,
+        "Carburat gaspill\u00e9": 22.27
+    },
+    {
+        "Immatriculation": "FH-976-TW",
+        "Dur\u00e9e d'arr\u00eat": 0.2770663888888889,
+        "Carburat gaspill\u00e9": 13.63
+    },
+    {
+        "Immatriculation": "GM-182-BL",
+        "Dur\u00e9e d'arr\u00eat": 0.8377520717592593,
+        "Carburat gaspill\u00e9": 139.22
+    },
+    {
+        "Immatriculation": "GE-438-GP",
+        "Dur\u00e9e d'arr\u00eat": 0.10653145833333333,
+        "Carburat gaspill\u00e9": 5.319999999999999
+    },
+    {
+        "Immatriculation": "GY-940-NB",
+        "Dur\u00e9e d'arr\u00eat": 0.3182098148148148,
+        "Carburat gaspill\u00e9": 26.430000000000007
+    },
+    {
+        "Immatriculation": "GX-351-FV",
+        "Dur\u00e9e d'arr\u00eat": 0.447709224537037,
+        "Carburat gaspill\u00e9": 23.38
+    },
+    {
+        "Immatriculation": "ES-810-NH",
+        "Dur\u00e9e d'arr\u00eat": 0.04829060185185185,
+        "Carburat gaspill\u00e9": 2.4800000000000004
+    },
+    {
+        "Immatriculation": "ER-183-DK",
+        "Dur\u00e9e d'arr\u00eat": 0.16954578703703704,
+        "Carburat gaspill\u00e9": 10.03
+    },
+    {
+        "Immatriculation": "GM-403-JG",
+        "Dur\u00e9e d'arr\u00eat": 0.6124645254629629,
+        "Carburat gaspill\u00e9": 63.04
+    },
+    {
+        "Immatriculation": "EN-705-LR",
+        "Dur\u00e9e d'arr\u00eat": 0.20035364583333334,
+        "Carburat gaspill\u00e9": 10.33
+    },
+    {
+        "Immatriculation": "GM-431-AE",
+        "Dur\u00e9e d'arr\u00eat": 1.0701675694444446,
+        "Carburat gaspill\u00e9": 97.91999999999997
+    },
+    {
+        "Immatriculation": "GM-316-JG",
+        "Dur\u00e9e d'arr\u00eat": 0.6518052777777779,
+        "Carburat gaspill\u00e9": 73.85000000000002
+    },
+    {
+        "Immatriculation": "GM-002-AE",
+        "Dur\u00e9e d'arr\u00eat": 0.4723248148148148,
+        "Carburat gaspill\u00e9": 51.82
+    },
+    {
+        "Immatriculation": "GM-372-JG",
+        "Dur\u00e9e d'arr\u00eat": 0.8332226967592593,
+        "Carburat gaspill\u00e9": 93.46000000000006
+    },
+    {
+        "Immatriculation": "GL-670-TE",
+        "Dur\u00e9e d'arr\u00eat": 0.3162334722222222,
+        "Carburat gaspill\u00e9": 28.690000000000005
+    },
+    {
+        "Immatriculation": "FW-617-JD",
+        "Dur\u00e9e d'arr\u00eat": 0.042245127314814813,
+        "Carburat gaspill\u00e9": 3.23
+    },
+    {
+        "Immatriculation": "GL-734-TE",
+        "Dur\u00e9e d'arr\u00eat": 1.293088912037037,
+        "Carburat gaspill\u00e9": 112.11
+    },
+    {
+        "Immatriculation": "GN-362-SD",
+        "Dur\u00e9e d'arr\u00eat": 1.4282134722222222,
+        "Carburat gaspill\u00e9": 144.88
+    },
+    {
+        "Immatriculation": "GM-251-JG",
+        "Dur\u00e9e d'arr\u00eat": 0.6848115509259259,
+        "Carburat gaspill\u00e9": 69.64999999999999
+    },
+    {
+        "Immatriculation": "GP-949-BQ",
+        "Dur\u00e9e d'arr\u00eat": 1.494581863425926,
+        "Carburat gaspill\u00e9": 181.93000000000004
+    },
+    {
+        "Immatriculation": "GW-033-NK",
+        "Dur\u00e9e d'arr\u00eat": 0.3993408912037037,
+        "Carburat gaspill\u00e9": 44.539999999999985
+    },
+    {
+        "Immatriculation": "EF-717-TL",
+        "Dur\u00e9e d'arr\u00eat": 0.14146258101851852,
+        "Carburat gaspill\u00e9": 12.260000000000005
+    },
+    {
+        "Immatriculation": "EF-900-EB",
+        "Dur\u00e9e d'arr\u00eat": 0.05543278935185185,
+        "Carburat gaspill\u00e9": 4.7700000000000005
+    },
+    {
+        "Immatriculation": "HM-832-AJ",
+        "Dur\u00e9e d'arr\u00eat": 0.08870613425925926,
+        "Carburat gaspill\u00e9": 7.81
+    },
+    {
+        "Immatriculation": "FS-857-GL",
+        "Dur\u00e9e d'arr\u00eat": 0.31427081018518516,
+        "Carburat gaspill\u00e9": 31.639999999999997
+    },
+    {
+        "Immatriculation": "FS-194-SE",
+        "Dur\u00e9e d'arr\u00eat": 0.6340377430555555,
+        "Carburat gaspill\u00e9": 52.28999999999998
+    },
+    {
+        "Immatriculation": "EQ-079-FM",
+        "Dur\u00e9e d'arr\u00eat": 0.13771550925925927,
+        "Carburat gaspill\u00e9": 16.0
+    },
+    {
+        "Immatriculation": "EP-959-HK",
+        "Dur\u00e9e d'arr\u00eat": 0.2864861689814815,
+        "Carburat gaspill\u00e9": 33.78
+    },
+    {
+        "Immatriculation": "FS-190-FH",
+        "Dur\u00e9e d'arr\u00eat": 0.5304317361111112,
+        "Carburat gaspill\u00e9": 60.349999999999994
+    },
+    {
+        "Immatriculation": "HF-648-NK",
+        "Dur\u00e9e d'arr\u00eat": 0.4282221180555556,
+        "Carburat gaspill\u00e9": 48.57
+    },
+    {
+        "Immatriculation": "FR-160-PW",
+        "Dur\u00e9e d'arr\u00eat": 0.0929207638888889,
+        "Carburat gaspill\u00e9": 6.180000000000001
+    },
+    {
+        "Immatriculation": "FT-382-KJ",
+        "Dur\u00e9e d'arr\u00eat": 0.04599784722222222,
+        "Carburat gaspill\u00e9": 4.33
+    },
+    {
+        "Immatriculation": "FR-669-VV",
+        "Dur\u00e9e d'arr\u00eat": 0.027121759259259262,
+        "Carburat gaspill\u00e9": 2.46
+    },
+    {
+        "Immatriculation": "GX-909-LA",
+        "Dur\u00e9e d'arr\u00eat": 0.07525175925925927,
+        "Carburat gaspill\u00e9": 5.249999999999999
+    },
+    {
+        "Immatriculation": "GX-928-LA",
+        "Dur\u00e9e d'arr\u00eat": 0.08419335648148148,
+        "Carburat gaspill\u00e9": 10.170000000000002
+    },
+    {
+        "Immatriculation": "GP-344-MS",
+        "Dur\u00e9e d'arr\u00eat": 0.027189004629629632,
+        "Carburat gaspill\u00e9": 1.17
+    },
+    {
+        "Immatriculation": "FR-139-AY",
+        "Dur\u00e9e d'arr\u00eat": 0.07007289351851852,
+        "Carburat gaspill\u00e9": 5.999999999999999
+    },
+    {
+        "Immatriculation": "EZ-290-NC",
+        "Dur\u00e9e d'arr\u00eat": 0.04250212962962963,
+        "Carburat gaspill\u00e9": 4.05
+    },
+    {
+        "Immatriculation": "EZ-285-NC",
+        "Dur\u00e9e d'arr\u00eat": 0.0829138888888889,
+        "Carburat gaspill\u00e9": 5.52
+    },
+    {
+        "Immatriculation": "GX-894-LA",
+        "Dur\u00e9e d'arr\u00eat": 0.016561099537037036,
+        "Carburat gaspill\u00e9": 1.52
+    },
+    {
+        "Immatriculation": "EZ-292-NC",
+        "Dur\u00e9e d'arr\u00eat": 0.051205671296296294,
+        "Carburat gaspill\u00e9": 3.23
+    },
+    {
+        "Immatriculation": "FA-187-HQ",
+        "Dur\u00e9e d'arr\u00eat": 0.16077891203703704,
+        "Carburat gaspill\u00e9": 6.250000000000001
+    },
+    {
+        "Immatriculation": "FB-051-BN",
+        "Dur\u00e9e d'arr\u00eat": 0.01894667824074074,
+        "Carburat gaspill\u00e9": 2.1
+    },
+    {
+        "Immatriculation": "FR-057-PW",
+        "Dur\u00e9e d'arr\u00eat": 0.038126678240740744,
+        "Carburat gaspill\u00e9": 3.9000000000000004
+    },
+    {
+        "Immatriculation": "FB-987-GN",
+        "Dur\u00e9e d'arr\u00eat": 0.2427271875,
+        "Carburat gaspill\u00e9": 23.990000000000002
+    },
+    {
+        "Immatriculation": "DJ-375-ZW",
+        "Dur\u00e9e d'arr\u00eat": 0.0019008796296296295,
+        "Carburat gaspill\u00e9": 0.57
+    },
+    {
+        "Immatriculation": "GS-251-GR",
+        "Dur\u00e9e d'arr\u00eat": 0.7909692361111111,
+        "Carburat gaspill\u00e9": 34.710000000000015
+    },
+    {
+        "Immatriculation": "FW-842-YV",
+        "Dur\u00e9e d'arr\u00eat": 0.7907172106481481,
+        "Carburat gaspill\u00e9": 74.10000000000001
+    },
+    {
+        "Immatriculation": "FE-453-EN",
+        "Dur\u00e9e d'arr\u00eat": 1.1078659259259258,
+        "Carburat gaspill\u00e9": 120.75999999999995
+    },
+    {
+        "Immatriculation": "GM-086-AC",
+        "Dur\u00e9e d'arr\u00eat": 1.0821870717592592,
+        "Carburat gaspill\u00e9": 110.11
+    },
+    {
+        "Immatriculation": "EV-358-ZH",
+        "Dur\u00e9e d'arr\u00eat": 0.08797333333333333,
+        "Carburat gaspill\u00e9": 8.840000000000003
+    },
+    {
+        "Immatriculation": "GM-820-AB",
+        "Dur\u00e9e d'arr\u00eat": 0.7377167592592593,
+        "Carburat gaspill\u00e9": 125.14000000000001
+    },
+    {
+        "Immatriculation": "GM-099-PJ",
+        "Dur\u00e9e d'arr\u00eat": 0.7777466319444444,
+        "Carburat gaspill\u00e9": 131.77999999999997
+    },
+    {
+        "Immatriculation": "GK-070-PA",
+        "Dur\u00e9e d'arr\u00eat": 0.3883238078703704,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "FE-748-EN",
+        "Dur\u00e9e d'arr\u00eat": 0.8608565740740741,
+        "Carburat gaspill\u00e9": 101.73000000000002
+    },
+    {
+        "Immatriculation": "ER-260-SC",
+        "Dur\u00e9e d'arr\u00eat": 0.027991909722222225,
+        "Carburat gaspill\u00e9": 3.41
+    },
+    {
+        "Immatriculation": "GJ-107-HC",
+        "Dur\u00e9e d'arr\u00eat": 0.5074583912037037,
+        "Carburat gaspill\u00e9": 88.92999999999998
+    },
+    {
+        "Immatriculation": "GM-425-BK",
+        "Dur\u00e9e d'arr\u00eat": 0.5435093634259259,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GJ-733-ZY",
+        "Dur\u00e9e d'arr\u00eat": 0.5062538773148149,
+        "Carburat gaspill\u00e9": 99.66
+    },
+    {
+        "Immatriculation": "GL-243-SY",
+        "Dur\u00e9e d'arr\u00eat": 0.45759451388888883,
+        "Carburat gaspill\u00e9": 85.92000000000003
+    },
+    {
+        "Immatriculation": "GL-251-NS",
+        "Dur\u00e9e d'arr\u00eat": 0.6033159027777778,
+        "Carburat gaspill\u00e9": 104.07000000000004
+    },
+    {
+        "Immatriculation": "GM-658-FP",
+        "Dur\u00e9e d'arr\u00eat": 0.8956834953703704,
+        "Carburat gaspill\u00e9": 163.73000000000002
+    },
+    {
+        "Immatriculation": "GK-279-CS",
+        "Dur\u00e9e d'arr\u00eat": 1.0384357407407407,
+        "Carburat gaspill\u00e9": 165.54
+    },
+    {
+        "Immatriculation": "GK-188-GL",
+        "Dur\u00e9e d'arr\u00eat": 0.5169363657407408,
+        "Carburat gaspill\u00e9": 95.77
+    },
+    {
+        "Immatriculation": "GJ-534-DC",
+        "Dur\u00e9e d'arr\u00eat": 0.4565742824074074,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GM-916-CE",
+        "Dur\u00e9e d'arr\u00eat": 0.6536422800925926,
+        "Carburat gaspill\u00e9": 113.88999999999999
+    },
+    {
+        "Immatriculation": "FB-989-TF",
+        "Dur\u00e9e d'arr\u00eat": 0.4575708912037037,
+        "Carburat gaspill\u00e9": 43.49000000000001
+    },
+    {
+        "Immatriculation": "GV-649-WL",
+        "Dur\u00e9e d'arr\u00eat": 0.6772151967592592,
+        "Carburat gaspill\u00e9": 110.09000000000003
+    },
+    {
+        "Immatriculation": "DQ-836-GN",
+        "Dur\u00e9e d'arr\u00eat": 0.4684467708333333,
+        "Carburat gaspill\u00e9": 32.6
+    },
+    {
+        "Immatriculation": "EE-992-CX",
+        "Dur\u00e9e d'arr\u00eat": 0.019705694444444442,
+        "Carburat gaspill\u00e9": 1.5
+    },
+    {
+        "Immatriculation": "HF-672-TB",
+        "Dur\u00e9e d'arr\u00eat": 0.12812572916666667,
+        "Carburat gaspill\u00e9": 9.149999999999999
+    },
+    {
+        "Immatriculation": "ES-898-FA",
+        "Dur\u00e9e d'arr\u00eat": 0.04272915509259259,
+        "Carburat gaspill\u00e9": 2.6500000000000004
+    },
+    {
+        "Immatriculation": "EQ-116-NS",
+        "Dur\u00e9e d'arr\u00eat": 0.02724690972222222,
+        "Carburat gaspill\u00e9": 2.32
+    },
+    {
+        "Immatriculation": "GK-662-MR",
+        "Dur\u00e9e d'arr\u00eat": 0.05472598379629629,
+        "Carburat gaspill\u00e9": 8.36
+    },
+    {
+        "Immatriculation": "GT-686-JG",
+        "Dur\u00e9e d'arr\u00eat": 0.1736754976851852,
+        "Carburat gaspill\u00e9": 21.22
+    },
+    {
+        "Immatriculation": "GM-532-SK",
+        "Dur\u00e9e d'arr\u00eat": 0.12246002314814815,
+        "Carburat gaspill\u00e9": 24.31
+    },
+    {
+        "Immatriculation": "DV-285-AF",
+        "Dur\u00e9e d'arr\u00eat": 0.01905173611111111,
+        "Carburat gaspill\u00e9": 2.41
+    },
+    {
+        "Immatriculation": "ES-524-JG",
+        "Dur\u00e9e d'arr\u00eat": 0.008242743055555555,
+        "Carburat gaspill\u00e9": 0.66
+    },
+    {
+        "Immatriculation": "FR-409-HT",
+        "Dur\u00e9e d'arr\u00eat": 0.17898434027777776,
+        "Carburat gaspill\u00e9": 22.750000000000004
+    },
+    {
+        "Immatriculation": "FS-177-JA",
+        "Dur\u00e9e d'arr\u00eat": 0.07955650462962963,
+        "Carburat gaspill\u00e9": 10.109999999999998
+    },
+    {
+        "Immatriculation": "GM-091-YB",
+        "Dur\u00e9e d'arr\u00eat": 0.5250102314814815,
+        "Carburat gaspill\u00e9": 92.69999999999996
+    },
+    {
+        "Immatriculation": "GK-506-KB",
+        "Dur\u00e9e d'arr\u00eat": 0.019073715277777778,
+        "Carburat gaspill\u00e9": 1.0
+    },
+    {
+        "Immatriculation": "GK-961-DY",
+        "Dur\u00e9e d'arr\u00eat": 0.027707673611111115,
+        "Carburat gaspill\u00e9": 2.91
+    },
+    {
+        "Immatriculation": "GQ-710-ZH",
+        "Dur\u00e9e d'arr\u00eat": 0.00680337962962963,
+        "Carburat gaspill\u00e9": 0.75
+    },
+    {
+        "Immatriculation": "GK-091-KW",
+        "Dur\u00e9e d'arr\u00eat": 0.020160902777777778,
+        "Carburat gaspill\u00e9": 2.57
+    },
+    {
+        "Immatriculation": "GK-411-DG",
+        "Dur\u00e9e d'arr\u00eat": 0.005057118055555555,
+        "Carburat gaspill\u00e9": 0.5700000000000001
+    },
+    {
+        "Immatriculation": "GR-142-WN",
+        "Dur\u00e9e d'arr\u00eat": 0.04469331018518519,
+        "Carburat gaspill\u00e9": 3.41
+    },
+    {
+        "Immatriculation": "FR-484-VZ",
+        "Dur\u00e9e d'arr\u00eat": 0.046500740740740745,
+        "Carburat gaspill\u00e9": 5.419999999999999
+    },
+    {
+        "Immatriculation": "GL-298-EV",
+        "Dur\u00e9e d'arr\u00eat": 0.01862087962962963,
+        "Carburat gaspill\u00e9": 1.14
+    },
+    {
+        "Immatriculation": "GQ-103-RM",
+        "Dur\u00e9e d'arr\u00eat": 0.074626875,
+        "Carburat gaspill\u00e9": 4.81
+    },
+    {
+        "Immatriculation": "GQ-402-RM",
+        "Dur\u00e9e d'arr\u00eat": 0.02143982638888889,
+        "Carburat gaspill\u00e9": 1.7699999999999998
+    },
+    {
+        "Immatriculation": "GZ-644-PD",
+        "Dur\u00e9e d'arr\u00eat": 0.027888912037037035,
+        "Carburat gaspill\u00e9": 2.25
+    },
+    {
+        "Immatriculation": "GZ-879-YK",
+        "Dur\u00e9e d'arr\u00eat": 0.023733807870370372,
+        "Carburat gaspill\u00e9": 2.3400000000000003
+    },
+    {
+        "Immatriculation": "GK-727-MN",
+        "Dur\u00e9e d'arr\u00eat": 0.023825023148148147,
+        "Carburat gaspill\u00e9": 1.47
+    },
+    {
+        "Immatriculation": "GL-690-LN",
+        "Dur\u00e9e d'arr\u00eat": 0.0276246412037037,
+        "Carburat gaspill\u00e9": 2.55
+    },
+    {
+        "Immatriculation": "GL-601-RB",
+        "Dur\u00e9e d'arr\u00eat": 0.06779277777777779,
+        "Carburat gaspill\u00e9": 5.129999999999998
+    },
+    {
+        "Immatriculation": "FV-447-DQ",
+        "Dur\u00e9e d'arr\u00eat": 0.039438009259259256,
+        "Carburat gaspill\u00e9": 3.21
+    },
+    {
+        "Immatriculation": "FV-250-NS",
+        "Dur\u00e9e d'arr\u00eat": 0.051638437499999995,
+        "Carburat gaspill\u00e9": 5.029999999999999
+    },
+    {
+        "Immatriculation": "GV-616-SY",
+        "Dur\u00e9e d'arr\u00eat": 0.2414972800925926,
+        "Carburat gaspill\u00e9": 11.570000000000002
+    },
+    {
+        "Immatriculation": "FB-358-AY",
+        "Dur\u00e9e d'arr\u00eat": 0.04948078703703704,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GV-930-NZ",
+        "Dur\u00e9e d'arr\u00eat": 0.1822906712962963,
+        "Carburat gaspill\u00e9": 10.14
+    },
+    {
+        "Immatriculation": "GW-837-JB",
+        "Dur\u00e9e d'arr\u00eat": 0.8620344444444444,
+        "Carburat gaspill\u00e9": 40.97
+    },
+    {
+        "Immatriculation": "HA-202-TQ",
+        "Dur\u00e9e d'arr\u00eat": 0.4983004976851852,
+        "Carburat gaspill\u00e9": 57.36999999999999
+    },
+    {
+        "Immatriculation": "GW-828-JB",
+        "Dur\u00e9e d'arr\u00eat": 0.07969055555555556,
+        "Carburat gaspill\u00e9": 6.589999999999999
+    },
+    {
+        "Immatriculation": "GX-984-JV",
+        "Dur\u00e9e d'arr\u00eat": 1.6790940509259258,
+        "Carburat gaspill\u00e9": 175.24
+    },
+    {
+        "Immatriculation": "DW-998-RX",
+        "Dur\u00e9e d'arr\u00eat": 0.14846527777777777,
+        "Carburat gaspill\u00e9": 9.82
+    },
+    {
+        "Immatriculation": "GX-443-JW",
+        "Dur\u00e9e d'arr\u00eat": 1.7073488773148149,
+        "Carburat gaspill\u00e9": 184.93999999999997
+    },
+    {
+        "Immatriculation": "GS-442-FA",
+        "Dur\u00e9e d'arr\u00eat": 0.7077268055555556,
+        "Carburat gaspill\u00e9": 35.23999999999999
+    },
+    {
+        "Immatriculation": "FA-720-DK",
+        "Dur\u00e9e d'arr\u00eat": 2.284892569444444,
+        "Carburat gaspill\u00e9": 216.90000000000003
+    },
+    {
+        "Immatriculation": "GM-185-QH",
+        "Dur\u00e9e d'arr\u00eat": 0.012117488425925926,
+        "Carburat gaspill\u00e9": 0.06
+    },
+    {
+        "Immatriculation": "GR-796-ZR",
+        "Dur\u00e9e d'arr\u00eat": 0.9901215393518519,
+        "Carburat gaspill\u00e9": 41.96
+    },
+    {
+        "Immatriculation": "GL-643-QX",
+        "Dur\u00e9e d'arr\u00eat": 0.07129085648148148,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "FT-699-DD",
+        "Dur\u00e9e d'arr\u00eat": 0.14569560185185185,
+        "Carburat gaspill\u00e9": 9.490000000000002
+    },
+    {
+        "Immatriculation": "DW-120-PV",
+        "Dur\u00e9e d'arr\u00eat": 0.10027333333333334,
+        "Carburat gaspill\u00e9": 4.670000000000001
+    },
+    {
+        "Immatriculation": "FA-199-QL",
+        "Dur\u00e9e d'arr\u00eat": 2.034520775462963,
+        "Carburat gaspill\u00e9": 215.51
+    },
+    {
+        "Immatriculation": "FA-314-JY",
+        "Dur\u00e9e d'arr\u00eat": 2.4630737962962965,
+        "Carburat gaspill\u00e9": 238.20000000000002
+    },
+    {
+        "Immatriculation": "FA-868-EE",
+        "Dur\u00e9e d'arr\u00eat": 0.9849335648148148,
+        "Carburat gaspill\u00e9": 92.35
+    },
+    {
+        "Immatriculation": "FA-585-FF",
+        "Dur\u00e9e d'arr\u00eat": 0.7311187037037037,
+        "Carburat gaspill\u00e9": 78.14999999999999
+    },
+    {
+        "Immatriculation": "EZ-274-HC",
+        "Dur\u00e9e d'arr\u00eat": 1.7534923726851852,
+        "Carburat gaspill\u00e9": 174.16000000000008
+    },
+    {
+        "Immatriculation": "FA-541-FF",
+        "Dur\u00e9e d'arr\u00eat": 1.7769200347222223,
+        "Carburat gaspill\u00e9": 167.17000000000004
+    },
+    {
+        "Immatriculation": "EF-995-NS",
+        "Dur\u00e9e d'arr\u00eat": 0.008848773148148147,
+        "Carburat gaspill\u00e9": 0.9
+    },
+    {
+        "Immatriculation": "DW-437-TH",
+        "Dur\u00e9e d'arr\u00eat": 0.4744596990740741,
+        "Carburat gaspill\u00e9": 28.729999999999997
+    },
+    {
+        "Immatriculation": "HG-069-HS",
+        "Dur\u00e9e d'arr\u00eat": 0.08237385416666666,
+        "Carburat gaspill\u00e9": 10.19
+    },
+    {
+        "Immatriculation": "GJ-770-NQ",
+        "Dur\u00e9e d'arr\u00eat": 0.17010939814814813,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GM-404-SW",
+        "Dur\u00e9e d'arr\u00eat": 0.3316466898148148,
+        "Carburat gaspill\u00e9": 42.140000000000015
+    },
+    {
+        "Immatriculation": "HB-987-HK",
+        "Dur\u00e9e d'arr\u00eat": 0.08303170138888889,
+        "Carburat gaspill\u00e9": 7.61
+    },
+    {
+        "Immatriculation": "HA-299-NT",
+        "Dur\u00e9e d'arr\u00eat": 0.35237864583333334,
+        "Carburat gaspill\u00e9": 42.499999999999986
+    },
+    {
+        "Immatriculation": "FQ-852-WX",
+        "Dur\u00e9e d'arr\u00eat": 0.02000150462962963,
+        "Carburat gaspill\u00e9": 1.7599999999999998
+    },
+    {
+        "Immatriculation": "HE-711-ZD",
+        "Dur\u00e9e d'arr\u00eat": 0.18918378472222222,
+        "Carburat gaspill\u00e9": 5.59
+    },
+    {
+        "Immatriculation": "FQ-382-LW",
+        "Dur\u00e9e d'arr\u00eat": 0.05746478009259259,
+        "Carburat gaspill\u00e9": 4.22
+    },
+    {
+        "Immatriculation": "DX-172-LW",
+        "Dur\u00e9e d'arr\u00eat": 0.22214813657407406,
+        "Carburat gaspill\u00e9": 13.089999999999998
+    },
+    {
+        "Immatriculation": "EE-525-ZD",
+        "Dur\u00e9e d'arr\u00eat": 0.1951341550925926,
+        "Carburat gaspill\u00e9": 14.770000000000003
+    },
+    {
+        "Immatriculation": "ES-410-NP",
+        "Dur\u00e9e d'arr\u00eat": 0.09386759259259259,
+        "Carburat gaspill\u00e9": 8.060000000000002
+    },
+    {
+        "Immatriculation": "FQ-562-YW",
+        "Dur\u00e9e d'arr\u00eat": 0.0532090625,
+        "Carburat gaspill\u00e9": 3.12
+    },
+    {
+        "Immatriculation": "DT-436-VV",
+        "Dur\u00e9e d'arr\u00eat": 0.17620467592592592,
+        "Carburat gaspill\u00e9": 10.170000000000002
+    },
+    {
+        "Immatriculation": "DV-914-PS",
+        "Dur\u00e9e d'arr\u00eat": 0.022592557870370372,
+        "Carburat gaspill\u00e9": 1.4200000000000002
+    },
+    {
+        "Immatriculation": "EV-571-PW",
+        "Dur\u00e9e d'arr\u00eat": 0.25778388888888887,
+        "Carburat gaspill\u00e9": 25.349999999999998
+    },
+    {
+        "Immatriculation": "GR-768-TR",
+        "Dur\u00e9e d'arr\u00eat": 0.22707913194444443,
+        "Carburat gaspill\u00e9": 16.97
+    },
+    {
+        "Immatriculation": "FQ-999-WW",
+        "Dur\u00e9e d'arr\u00eat": 0.009416840277777777,
+        "Carburat gaspill\u00e9": 1.75
+    },
+    {
+        "Immatriculation": "ER-210-BD",
+        "Dur\u00e9e d'arr\u00eat": 0.9604321527777778,
+        "Carburat gaspill\u00e9": 102.80000000000003
+    },
+    {
+        "Immatriculation": "EE-534-GS",
+        "Dur\u00e9e d'arr\u00eat": 0.03554744212962963,
+        "Carburat gaspill\u00e9": 2.9699999999999998
+    },
+    {
+        "Immatriculation": "DV-372-RA",
+        "Dur\u00e9e d'arr\u00eat": 0.051928125,
+        "Carburat gaspill\u00e9": 2.2600000000000002
+    },
+    {
+        "Immatriculation": "GZ-916-KP",
+        "Dur\u00e9e d'arr\u00eat": 1.2975886574074074,
+        "Carburat gaspill\u00e9": 122.33999999999999
+    },
+    {
+        "Immatriculation": "EQ-848-ZY",
+        "Dur\u00e9e d'arr\u00eat": 0.0063190625,
+        "Carburat gaspill\u00e9": 0.85
+    },
+    {
+        "Immatriculation": "ER-190-BG",
+        "Dur\u00e9e d'arr\u00eat": 0.014124247685185186,
+        "Carburat gaspill\u00e9": 1.75
+    },
+    {
+        "Immatriculation": "HA-362-ED",
+        "Dur\u00e9e d'arr\u00eat": 0.35936376157407407,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HA-904-PP",
+        "Dur\u00e9e d'arr\u00eat": 1.4781170023148147,
+        "Carburat gaspill\u00e9": 157.82
+    },
+    {
+        "Immatriculation": "HA-717-WL",
+        "Dur\u00e9e d'arr\u00eat": 1.807984699074074,
+        "Carburat gaspill\u00e9": 166.60000000000008
+    },
+    {
+        "Immatriculation": "GX-728-VE",
+        "Dur\u00e9e d'arr\u00eat": 0.5255583564814814,
+        "Carburat gaspill\u00e9": 66.32000000000001
+    },
+    {
+        "Immatriculation": "GX-581-NJ",
+        "Dur\u00e9e d'arr\u00eat": 0.4579505555555555,
+        "Carburat gaspill\u00e9": 67.17
+    },
+    {
+        "Immatriculation": "GW-332-RK",
+        "Dur\u00e9e d'arr\u00eat": 1.0747714814814815,
+        "Carburat gaspill\u00e9": 135.81000000000003
+    },
+    {
+        "Immatriculation": "GW-877-RK",
+        "Dur\u00e9e d'arr\u00eat": 1.0988199421296296,
+        "Carburat gaspill\u00e9": 118.38000000000005
+    },
+    {
+        "Immatriculation": "GX-688-JV",
+        "Dur\u00e9e d'arr\u00eat": 0.8011748842592592,
+        "Carburat gaspill\u00e9": 102.02000000000004
+    },
+    {
+        "Immatriculation": "FN-709-ZH",
+        "Dur\u00e9e d'arr\u00eat": 0.07022622685185186,
+        "Carburat gaspill\u00e9": 8.31
+    },
+    {
+        "Immatriculation": "GS-284-WL",
+        "Dur\u00e9e d'arr\u00eat": 0.07502611111111111,
+        "Carburat gaspill\u00e9": 7.5
+    },
+    {
+        "Immatriculation": "FN-713-ZH",
+        "Dur\u00e9e d'arr\u00eat": 0.03438489583333333,
+        "Carburat gaspill\u00e9": 3.819999999999999
+    },
+    {
+        "Immatriculation": "GK-048-TA",
+        "Dur\u00e9e d'arr\u00eat": 0.9663779861111111,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GK-620-XV",
+        "Dur\u00e9e d'arr\u00eat": 0.026449502314814816,
+        "Carburat gaspill\u00e9": 2.4199999999999995
+    },
+    {
+        "Immatriculation": "FN-705-ZH",
+        "Dur\u00e9e d'arr\u00eat": 0.07007319444444444,
+        "Carburat gaspill\u00e9": 8.250000000000002
+    },
+    {
+        "Immatriculation": "ER-808-ES",
+        "Dur\u00e9e d'arr\u00eat": 0.07300557870370371,
+        "Carburat gaspill\u00e9": 5.1000000000000005
+    },
+    {
+        "Immatriculation": "DS-891-ME",
+        "Dur\u00e9e d'arr\u00eat": 0.20341218749999998,
+        "Carburat gaspill\u00e9": 15.109999999999996
+    },
+    {
+        "Immatriculation": "GL-726-NT",
+        "Dur\u00e9e d'arr\u00eat": 0.769894224537037,
+        "Carburat gaspill\u00e9": 89.78999999999999
+    },
+    {
+        "Immatriculation": "GK-407-TA",
+        "Dur\u00e9e d'arr\u00eat": 0.9875423958333334,
+        "Carburat gaspill\u00e9": 112.40999999999998
+    },
+    {
+        "Immatriculation": "GK-208-TA",
+        "Dur\u00e9e d'arr\u00eat": 0.4776610648148148,
+        "Carburat gaspill\u00e9": 60.149999999999984
+    },
+    {
+        "Immatriculation": "GX-035-BM",
+        "Dur\u00e9e d'arr\u00eat": 0.08266627314814814,
+        "Carburat gaspill\u00e9": 10.829999999999998
+    },
+    {
+        "Immatriculation": "GX-007-JB",
+        "Dur\u00e9e d'arr\u00eat": 0.2322262962962963,
+        "Carburat gaspill\u00e9": 18.96
+    },
+    {
+        "Immatriculation": "GX-419-QC",
+        "Dur\u00e9e d'arr\u00eat": 0.2244915162037037,
+        "Carburat gaspill\u00e9": 12.850000000000003
+    },
+    {
+        "Immatriculation": "GX-939-RZ",
+        "Dur\u00e9e d'arr\u00eat": 1.288263738425926,
+        "Carburat gaspill\u00e9": 140.12000000000003
+    },
+    {
+        "Immatriculation": "GX-648-RZ",
+        "Dur\u00e9e d'arr\u00eat": 0.8092513888888889,
+        "Carburat gaspill\u00e9": 96.06000000000002
+    },
+    {
+        "Immatriculation": "GX-700-MF",
+        "Dur\u00e9e d'arr\u00eat": 0.9727439930555556,
+        "Carburat gaspill\u00e9": 124.86000000000001
+    },
+    {
+        "Immatriculation": "GX-432-NJ",
+        "Dur\u00e9e d'arr\u00eat": 0.45810276620370366,
+        "Carburat gaspill\u00e9": 57.980000000000004
+    },
+    {
+        "Immatriculation": "GW-540-PT",
+        "Dur\u00e9e d'arr\u00eat": 0.5095492013888889,
+        "Carburat gaspill\u00e9": 63.81999999999999
+    },
+    {
+        "Immatriculation": "GX-249-NJ",
+        "Dur\u00e9e d'arr\u00eat": 1.1886765856481483,
+        "Carburat gaspill\u00e9": 125.61999999999999
+    },
+    {
+        "Immatriculation": "GX-426-MK",
+        "Dur\u00e9e d'arr\u00eat": 1.2370121064814816,
+        "Carburat gaspill\u00e9": 165.8899999999999
+    },
+    {
+        "Immatriculation": "GT-411-DN",
+        "Dur\u00e9e d'arr\u00eat": 0.08941501157407408,
+        "Carburat gaspill\u00e9": 2.4899999999999998
+    },
+    {
+        "Immatriculation": "GR-194-XM",
+        "Dur\u00e9e d'arr\u00eat": 0.45321366898148147,
+        "Carburat gaspill\u00e9": 16.279999999999998
+    },
+    {
+        "Immatriculation": "GY-442-AS",
+        "Dur\u00e9e d'arr\u00eat": 0.6389258217592593,
+        "Carburat gaspill\u00e9": 69.85
+    },
+    {
+        "Immatriculation": "GX-728-WE",
+        "Dur\u00e9e d'arr\u00eat": 0.41364609953703707,
+        "Carburat gaspill\u00e9": 45.14
+    },
+    {
+        "Immatriculation": "ER-615-WS",
+        "Dur\u00e9e d'arr\u00eat": 0.49005458333333335,
+        "Carburat gaspill\u00e9": 40.480000000000004
+    },
+    {
+        "Immatriculation": "GT-619-BM",
+        "Dur\u00e9e d'arr\u00eat": 0.2717011111111111,
+        "Carburat gaspill\u00e9": 9.45
+    },
+    {
+        "Immatriculation": "GY-179-DS",
+        "Dur\u00e9e d'arr\u00eat": 0.31349076388888886,
+        "Carburat gaspill\u00e9": 31.72
+    },
+    {
+        "Immatriculation": "GY-077-DS",
+        "Dur\u00e9e d'arr\u00eat": 0.44979828703703706,
+        "Carburat gaspill\u00e9": 53.749999999999986
+    },
+    {
+        "Immatriculation": "GY-928-DR",
+        "Dur\u00e9e d'arr\u00eat": 0.44103739583333335,
+        "Carburat gaspill\u00e9": 48.72
+    },
+    {
+        "Immatriculation": "GX-414-QP",
+        "Dur\u00e9e d'arr\u00eat": 0.2715533564814815,
+        "Carburat gaspill\u00e9": 23.410000000000004
+    },
+    {
+        "Immatriculation": "GX-357-YH",
+        "Dur\u00e9e d'arr\u00eat": 0.37513866898148146,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GX-222-SN",
+        "Dur\u00e9e d'arr\u00eat": 0.858310925925926,
+        "Carburat gaspill\u00e9": 47.82999999999999
+    },
+    {
+        "Immatriculation": "GX-275-YP",
+        "Dur\u00e9e d'arr\u00eat": 1.5375603935185185,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GX-974-JV",
+        "Dur\u00e9e d'arr\u00eat": 0.2781342592592593,
+        "Carburat gaspill\u00e9": 23.560000000000006
+    },
+    {
+        "Immatriculation": "GX-665-CQ",
+        "Dur\u00e9e d'arr\u00eat": 0.24927101851851852,
+        "Carburat gaspill\u00e9": 26.24
+    },
+    {
+        "Immatriculation": "GY-478-SP",
+        "Dur\u00e9e d'arr\u00eat": 0.8134798958333334,
+        "Carburat gaspill\u00e9": 97.08
+    },
+    {
+        "Immatriculation": "GW-917-XH",
+        "Dur\u00e9e d'arr\u00eat": 0.06804005787037037,
+        "Carburat gaspill\u00e9": 5.31
+    },
+    {
+        "Immatriculation": "GX-864-NT",
+        "Dur\u00e9e d'arr\u00eat": 1.1751913194444443,
+        "Carburat gaspill\u00e9": 158.67000000000002
+    },
+    {
+        "Immatriculation": "GW-063-ZG",
+        "Dur\u00e9e d'arr\u00eat": 0.3863663194444445,
+        "Carburat gaspill\u00e9": 43.61
+    },
+    {
+        "Immatriculation": "GY-699-MA",
+        "Dur\u00e9e d'arr\u00eat": 0.36865542824074077,
+        "Carburat gaspill\u00e9": 40.769999999999996
+    },
+    {
+        "Immatriculation": "GS-921-FW",
+        "Dur\u00e9e d'arr\u00eat": 0.8529066203703703,
+        "Carburat gaspill\u00e9": 32.45
+    },
+    {
+        "Immatriculation": "GZ-282-EW",
+        "Dur\u00e9e d'arr\u00eat": 0.2751862615740741,
+        "Carburat gaspill\u00e9": 28.439999999999998
+    },
+    {
+        "Immatriculation": "GY-046-MB",
+        "Dur\u00e9e d'arr\u00eat": 0.7964266666666666,
+        "Carburat gaspill\u00e9": 88.65000000000002
+    },
+    {
+        "Immatriculation": "GX-590-WG",
+        "Dur\u00e9e d'arr\u00eat": 0.4893815509259259,
+        "Carburat gaspill\u00e9": 53.269999999999996
+    },
+    {
+        "Immatriculation": "GZ-741-NC",
+        "Dur\u00e9e d'arr\u00eat": 0.515492650462963,
+        "Carburat gaspill\u00e9": 61.199999999999996
+    },
+    {
+        "Immatriculation": "GR-304-GK",
+        "Dur\u00e9e d'arr\u00eat": 0.5212751041666667,
+        "Carburat gaspill\u00e9": 26.270000000000003
+    },
+    {
+        "Immatriculation": "GY-660-AN",
+        "Dur\u00e9e d'arr\u00eat": 0.2766328703703704,
+        "Carburat gaspill\u00e9": 14.799999999999997
+    },
+    {
+        "Immatriculation": "GX-948-XG",
+        "Dur\u00e9e d'arr\u00eat": 0.24789750000000002,
+        "Carburat gaspill\u00e9": 15.520000000000003
+    },
+    {
+        "Immatriculation": "GW-062-RC",
+        "Dur\u00e9e d'arr\u00eat": 1.0606500578703704,
+        "Carburat gaspill\u00e9": 128.07999999999996
+    },
+    {
+        "Immatriculation": "GX-092-GQ",
+        "Dur\u00e9e d'arr\u00eat": 1.0146498263888888,
+        "Carburat gaspill\u00e9": 108.46999999999996
+    },
+    {
+        "Immatriculation": "GX-561-VD",
+        "Dur\u00e9e d'arr\u00eat": 0.11873726851851851,
+        "Carburat gaspill\u00e9": 8.17
+    },
+    {
+        "Immatriculation": "GX-944-LA",
+        "Dur\u00e9e d'arr\u00eat": 0.0611093287037037,
+        "Carburat gaspill\u00e9": 5.58
+    },
+    {
+        "Immatriculation": "GY-187-TX",
+        "Dur\u00e9e d'arr\u00eat": 0.05157222222222222,
+        "Carburat gaspill\u00e9": 3.95
+    },
+    {
+        "Immatriculation": "GX-024-WG",
+        "Dur\u00e9e d'arr\u00eat": 0.8071014351851852,
+        "Carburat gaspill\u00e9": 88.62000000000002
+    },
+    {
+        "Immatriculation": "GX-832-RZ",
+        "Dur\u00e9e d'arr\u00eat": 0.3826239467592593,
+        "Carburat gaspill\u00e9": 41.13
+    },
+    {
+        "Immatriculation": "GZ-312-YZ",
+        "Dur\u00e9e d'arr\u00eat": 1.7859108912037036,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HA-757-XE",
+        "Dur\u00e9e d'arr\u00eat": 1.5355402199074073,
+        "Carburat gaspill\u00e9": 134.89000000000001
+    },
+    {
+        "Immatriculation": "GZ-328-SA",
+        "Dur\u00e9e d'arr\u00eat": 0.6355710069444445,
+        "Carburat gaspill\u00e9": 68.28999999999999
+    },
+    {
+        "Immatriculation": "GZ-338-LP",
+        "Dur\u00e9e d'arr\u00eat": 0.7170109375,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GZ-447-SF",
+        "Dur\u00e9e d'arr\u00eat": 1.532849039351852,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GY-712-JL",
+        "Dur\u00e9e d'arr\u00eat": 1.3030181944444443,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GZ-602-PM",
+        "Dur\u00e9e d'arr\u00eat": 2.216839652777778,
+        "Carburat gaspill\u00e9": 237.83999999999992
+    },
+    {
+        "Immatriculation": "GZ-884-MK",
+        "Dur\u00e9e d'arr\u00eat": 2.175578298611111,
+        "Carburat gaspill\u00e9": 227.53999999999994
+    },
+    {
+        "Immatriculation": "GZ-194-ML",
+        "Dur\u00e9e d'arr\u00eat": 0.5729595138888889,
+        "Carburat gaspill\u00e9": 61.660000000000004
+    },
+    {
+        "Immatriculation": "GZ-182-WM",
+        "Dur\u00e9e d'arr\u00eat": 0.6798000462962963,
+        "Carburat gaspill\u00e9": 72.42
+    },
+    {
+        "Immatriculation": "HF-439-QG",
+        "Dur\u00e9e d'arr\u00eat": 0.2129559375,
+        "Carburat gaspill\u00e9": 25.230000000000004
+    },
+    {
+        "Immatriculation": "GZ-474-VB",
+        "Dur\u00e9e d'arr\u00eat": 1.904056284722222,
+        "Carburat gaspill\u00e9": 89.21999999999996
+    },
+    {
+        "Immatriculation": "HA-751-KE",
+        "Dur\u00e9e d'arr\u00eat": 1.3680725462962962,
+        "Carburat gaspill\u00e9": 55.52000000000001
+    },
+    {
+        "Immatriculation": "GZ-517-LN",
+        "Dur\u00e9e d'arr\u00eat": 0.9102687962962963,
+        "Carburat gaspill\u00e9": 98.45999999999997
+    },
+    {
+        "Immatriculation": "GZ-949-LN",
+        "Dur\u00e9e d'arr\u00eat": 0.8364195370370371,
+        "Carburat gaspill\u00e9": 99.76
+    },
+    {
+        "Immatriculation": "HA-855-MC",
+        "Dur\u00e9e d'arr\u00eat": 0.7128319791666666,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HA-704-MC",
+        "Dur\u00e9e d'arr\u00eat": 2.050137511574074,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HA-200-FL",
+        "Dur\u00e9e d'arr\u00eat": 0.3151453125,
+        "Carburat gaspill\u00e9": 32.84999999999999
+    },
+    {
+        "Immatriculation": "GZ-172-RB",
+        "Dur\u00e9e d'arr\u00eat": 0.6673900578703703,
+        "Carburat gaspill\u00e9": 26.63
+    },
+    {
+        "Immatriculation": "GX-564-NG",
+        "Dur\u00e9e d'arr\u00eat": 1.305335486111111,
+        "Carburat gaspill\u00e9": 147.5
+    },
+    {
+        "Immatriculation": "HA-582-XF",
+        "Dur\u00e9e d'arr\u00eat": 0.10520130787037037,
+        "Carburat gaspill\u00e9": 9.279999999999998
+    },
+    {
+        "Immatriculation": "HA-601-ZL",
+        "Dur\u00e9e d'arr\u00eat": 1.4573238194444444,
+        "Carburat gaspill\u00e9": 122.83000000000004
+    },
+    {
+        "Immatriculation": "HA-320-GC",
+        "Dur\u00e9e d'arr\u00eat": 0.35032417824074075,
+        "Carburat gaspill\u00e9": 42.02
+    },
+    {
+        "Immatriculation": "GZ-115-NC",
+        "Dur\u00e9e d'arr\u00eat": 0.05375417824074074,
+        "Carburat gaspill\u00e9": 5.29
+    },
+    {
+        "Immatriculation": "GZ-658-ZP",
+        "Dur\u00e9e d'arr\u00eat": 0.11046858796296297,
+        "Carburat gaspill\u00e9": 9.059999999999999
+    },
+    {
+        "Immatriculation": "HA-316-EC",
+        "Dur\u00e9e d'arr\u00eat": 0.056627141203703706,
+        "Carburat gaspill\u00e9": 8.07
+    },
+    {
+        "Immatriculation": "HA-492-HC",
+        "Dur\u00e9e d'arr\u00eat": 0.020401620370370372,
+        "Carburat gaspill\u00e9": 1.1400000000000001
+    },
+    {
+        "Immatriculation": "HA-410-LH",
+        "Dur\u00e9e d'arr\u00eat": 0.024370775462962964,
+        "Carburat gaspill\u00e9": 2.9699999999999998
+    },
+    {
+        "Immatriculation": "HA-874-PV",
+        "Dur\u00e9e d'arr\u00eat": 0.015293159722222222,
+        "Carburat gaspill\u00e9": 2.06
+    },
+    {
+        "Immatriculation": "GZ-730-SP",
+        "Dur\u00e9e d'arr\u00eat": 0.038874606481481486,
+        "Carburat gaspill\u00e9": 3.01
+    },
+    {
+        "Immatriculation": "GZ-766-SP",
+        "Dur\u00e9e d'arr\u00eat": 0.013799305555555556,
+        "Carburat gaspill\u00e9": 2.42
+    },
+    {
+        "Immatriculation": "HA-046-MC",
+        "Dur\u00e9e d'arr\u00eat": 0.0754079050925926,
+        "Carburat gaspill\u00e9": 5.730000000000002
+    },
+    {
+        "Immatriculation": "HA-952-ZK",
+        "Dur\u00e9e d'arr\u00eat": 0.07614344907407407,
+        "Carburat gaspill\u00e9": 9.26
+    },
+    {
+        "Immatriculation": "HB-616-JG",
+        "Dur\u00e9e d'arr\u00eat": 0.03223587962962963,
+        "Carburat gaspill\u00e9": 2.98
+    },
+    {
+        "Immatriculation": "HA-486-QR",
+        "Dur\u00e9e d'arr\u00eat": 0.4652046643518518,
+        "Carburat gaspill\u00e9": 78.34
+    },
+    {
+        "Immatriculation": "CK-931-QQ",
+        "Dur\u00e9e d'arr\u00eat": 0.028202025462962965,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HB-086-FQ",
+        "Dur\u00e9e d'arr\u00eat": 0.1258233449074074,
+        "Carburat gaspill\u00e9": 16.18
+    },
+    {
+        "Immatriculation": "HB-149-JG",
+        "Dur\u00e9e d'arr\u00eat": 0.07039543981481482,
+        "Carburat gaspill\u00e9": 8.74
+    },
+    {
+        "Immatriculation": "HB-227-GV",
+        "Dur\u00e9e d'arr\u00eat": 0.0622103587962963,
+        "Carburat gaspill\u00e9": 5.520000000000001
+    },
+    {
+        "Immatriculation": "HB-245-GE",
+        "Dur\u00e9e d'arr\u00eat": 0.05481891203703704,
+        "Carburat gaspill\u00e9": 5.929999999999999
+    },
+    {
+        "Immatriculation": "HB-350-GA",
+        "Dur\u00e9e d'arr\u00eat": 0.1366212037037037,
+        "Carburat gaspill\u00e9": 7.630000000000002
+    },
+    {
+        "Immatriculation": "HB-639-VG",
+        "Dur\u00e9e d'arr\u00eat": 0.4124824537037037,
+        "Carburat gaspill\u00e9": 49.16999999999999
+    },
+    {
+        "Immatriculation": "HB-455-GE",
+        "Dur\u00e9e d'arr\u00eat": 0.12698011574074075,
+        "Carburat gaspill\u00e9": 8.04
+    },
+    {
+        "Immatriculation": "HB-763-JF",
+        "Dur\u00e9e d'arr\u00eat": 0.39882952546296296,
+        "Carburat gaspill\u00e9": 41.589999999999996
+    },
+    {
+        "Immatriculation": "HB-826-DK",
+        "Dur\u00e9e d'arr\u00eat": 0.037336875,
+        "Carburat gaspill\u00e9": 3.3400000000000003
+    },
+    {
+        "Immatriculation": "HB-696-JH",
+        "Dur\u00e9e d'arr\u00eat": 0.028273043981481484,
+        "Carburat gaspill\u00e9": 2.04
+    },
+    {
+        "Immatriculation": "HB-714-TJ",
+        "Dur\u00e9e d'arr\u00eat": 0.5946480092592593,
+        "Carburat gaspill\u00e9": 57.44999999999999
+    },
+    {
+        "Immatriculation": "HB-988-RQ",
+        "Dur\u00e9e d'arr\u00eat": 0.4594289814814814,
+        "Carburat gaspill\u00e9": 46.519999999999996
+    },
+    {
+        "Immatriculation": "HA-574-PA",
+        "Dur\u00e9e d'arr\u00eat": 0.7711803935185185,
+        "Carburat gaspill\u00e9": 82.94999999999999
+    },
+    {
+        "Immatriculation": "HA-242-HV",
+        "Dur\u00e9e d'arr\u00eat": 0.02653040509259259,
+        "Carburat gaspill\u00e9": 1.96
+    },
+    {
+        "Immatriculation": "GL-584-AK",
+        "Dur\u00e9e d'arr\u00eat": 0.3732278472222222,
+        "Carburat gaspill\u00e9": 64.01
+    },
+    {
+        "Immatriculation": "HB-381-TJ",
+        "Dur\u00e9e d'arr\u00eat": 1.6016933680555556,
+        "Carburat gaspill\u00e9": 124.06000000000002
+    },
+    {
+        "Immatriculation": "GV-317-DL",
+        "Dur\u00e9e d'arr\u00eat": 0.39327133101851847,
+        "Carburat gaspill\u00e9": 15.159999999999998
+    },
+    {
+        "Immatriculation": "HB-948-TJ",
+        "Dur\u00e9e d'arr\u00eat": 0.5991505092592593,
+        "Carburat gaspill\u00e9": 60.29999999999999
+    },
+    {
+        "Immatriculation": "GZ-395-LQ",
+        "Dur\u00e9e d'arr\u00eat": 1.1159395601851851,
+        "Carburat gaspill\u00e9": 33.99999999999999
+    },
+    {
+        "Immatriculation": "HA-430-FA",
+        "Dur\u00e9e d'arr\u00eat": 0.4017352083333333,
+        "Carburat gaspill\u00e9": 67.39
+    },
+    {
+        "Immatriculation": "HA-665-FA",
+        "Dur\u00e9e d'arr\u00eat": 0.07362387731481482,
+        "Carburat gaspill\u00e9": 7.54
+    },
+    {
+        "Immatriculation": "HB-372-NW",
+        "Dur\u00e9e d'arr\u00eat": 0.7916953472222222,
+        "Carburat gaspill\u00e9": 87.62999999999998
+    },
+    {
+        "Immatriculation": "HA-737-HB",
+        "Dur\u00e9e d'arr\u00eat": 0.6548732638888889,
+        "Carburat gaspill\u00e9": 107.77
+    },
+    {
+        "Immatriculation": "HA-344-FE",
+        "Dur\u00e9e d'arr\u00eat": 0.0137190625,
+        "Carburat gaspill\u00e9": 1.7200000000000002
+    },
+    {
+        "Immatriculation": "HA-919-WW",
+        "Dur\u00e9e d'arr\u00eat": 0.10313829861111111,
+        "Carburat gaspill\u00e9": 16.26
+    },
+    {
+        "Immatriculation": "GG-319-DP",
+        "Dur\u00e9e d'arr\u00eat": 1.1265719907407408,
+        "Carburat gaspill\u00e9": 44.609999999999985
+    },
+    {
+        "Immatriculation": "HC-950-BH",
+        "Dur\u00e9e d'arr\u00eat": 0.26819914351851853,
+        "Carburat gaspill\u00e9": 30.119999999999997
+    },
+    {
+        "Immatriculation": "HC-427-AC",
+        "Dur\u00e9e d'arr\u00eat": 0.25481767361111113,
+        "Carburat gaspill\u00e9": 28.240000000000002
+    },
+    {
+        "Immatriculation": "HB-449-GA",
+        "Dur\u00e9e d'arr\u00eat": 1.6646817361111113,
+        "Carburat gaspill\u00e9": 155.09999999999997
+    },
+    {
+        "Immatriculation": "HC-716-BH",
+        "Dur\u00e9e d'arr\u00eat": 0.09451665509259259,
+        "Carburat gaspill\u00e9": 11.04
+    },
+    {
+        "Immatriculation": "HB-589-MZ",
+        "Dur\u00e9e d'arr\u00eat": 0.03129771990740741,
+        "Carburat gaspill\u00e9": 2.72
+    },
+    {
+        "Immatriculation": "HB-872-YH",
+        "Dur\u00e9e d'arr\u00eat": 0.43583085648148145,
+        "Carburat gaspill\u00e9": 72.81999999999998
+    },
+    {
+        "Immatriculation": "HA-463-BZ",
+        "Dur\u00e9e d'arr\u00eat": 0.9260265046296297,
+        "Carburat gaspill\u00e9": 120.83000000000003
+    },
+    {
+        "Immatriculation": "HA-991-ZE",
+        "Dur\u00e9e d'arr\u00eat": 0.12004018518518518,
+        "Carburat gaspill\u00e9": 12.29
+    },
+    {
+        "Immatriculation": "GZ-368-PF",
+        "Dur\u00e9e d'arr\u00eat": 0.9092773726851852,
+        "Carburat gaspill\u00e9": 29.8
+    },
+    {
+        "Immatriculation": "GZ-830-DZ",
+        "Dur\u00e9e d'arr\u00eat": 1.3674319560185184,
+        "Carburat gaspill\u00e9": 44.13999999999997
+    },
+    {
+        "Immatriculation": "GB-654-MT",
+        "Dur\u00e9e d'arr\u00eat": 0.09400528935185185,
+        "Carburat gaspill\u00e9": 2.3000000000000003
+    },
+    {
+        "Immatriculation": "HA-301-GW",
+        "Dur\u00e9e d'arr\u00eat": 1.1956894907407407,
+        "Carburat gaspill\u00e9": 118.59999999999998
+    },
+    {
+        "Immatriculation": "HA-706-HD",
+        "Dur\u00e9e d'arr\u00eat": 1.5407011574074072,
+        "Carburat gaspill\u00e9": 143.16
+    },
+    {
+        "Immatriculation": "HA-095-WW",
+        "Dur\u00e9e d'arr\u00eat": 0.13729332175925926,
+        "Carburat gaspill\u00e9": 11.459999999999997
+    },
+    {
+        "Immatriculation": "HB-068-FM",
+        "Dur\u00e9e d'arr\u00eat": 0.05322537037037037,
+        "Carburat gaspill\u00e9": 4.6
+    },
+    {
+        "Immatriculation": "GZ-491-YK",
+        "Dur\u00e9e d'arr\u00eat": 1.651684363425926,
+        "Carburat gaspill\u00e9": 169.5999999999999
+    },
+    {
+        "Immatriculation": "GX-092-MK",
+        "Dur\u00e9e d'arr\u00eat": 0.5513037962962963,
+        "Carburat gaspill\u00e9": 59.65999999999999
+    },
+    {
+        "Immatriculation": "HA-415-KF",
+        "Dur\u00e9e d'arr\u00eat": 0.47170796296296297,
+        "Carburat gaspill\u00e9": 10.55
+    },
+    {
+        "Immatriculation": "HA-219-DA",
+        "Dur\u00e9e d'arr\u00eat": 0.2699447569444444,
+        "Carburat gaspill\u00e9": 26.95
+    },
+    {
+        "Immatriculation": "GW-073-LX",
+        "Dur\u00e9e d'arr\u00eat": 0.015136296296296297,
+        "Carburat gaspill\u00e9": 2.0100000000000002
+    },
+    {
+        "Immatriculation": "GZ-190-AW",
+        "Dur\u00e9e d'arr\u00eat": 0.11447800925925926,
+        "Carburat gaspill\u00e9": 13.51
+    },
+    {
+        "Immatriculation": "GW-196-VB",
+        "Dur\u00e9e d'arr\u00eat": 0.5854290046296297,
+        "Carburat gaspill\u00e9": 67.63
+    },
+    {
+        "Immatriculation": "HE-977-DB",
+        "Dur\u00e9e d'arr\u00eat": 0.028884988425925927,
+        "Carburat gaspill\u00e9": 3.35
+    },
+    {
+        "Immatriculation": "HB-019-KT",
+        "Dur\u00e9e d'arr\u00eat": 0.02788927083333333,
+        "Carburat gaspill\u00e9": 3.2800000000000002
+    },
+    {
+        "Immatriculation": "GY-019-KH",
+        "Dur\u00e9e d'arr\u00eat": 0.0977583912037037,
+        "Carburat gaspill\u00e9": 5.330000000000001
+    },
+    {
+        "Immatriculation": "HA-010-YA",
+        "Dur\u00e9e d'arr\u00eat": 1.0835689814814815,
+        "Carburat gaspill\u00e9": 110.43999999999998
+    },
+    {
+        "Immatriculation": "HA-139-ZF",
+        "Dur\u00e9e d'arr\u00eat": 0.6007306365740741,
+        "Carburat gaspill\u00e9": 103.42000000000002
+    },
+    {
+        "Immatriculation": "GX-465-SM",
+        "Dur\u00e9e d'arr\u00eat": 0.47984915509259257,
+        "Carburat gaspill\u00e9": 30.2
+    },
+    {
+        "Immatriculation": "HA-887-GC",
+        "Dur\u00e9e d'arr\u00eat": 0.521616574074074,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HC-607-XV",
+        "Dur\u00e9e d'arr\u00eat": 2.480613229166667,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HC-250-LX",
+        "Dur\u00e9e d'arr\u00eat": 0.26653199074074074,
+        "Carburat gaspill\u00e9": 32.35999999999999
+    },
+    {
+        "Immatriculation": "HB-687-TK",
+        "Dur\u00e9e d'arr\u00eat": 0.04927914351851852,
+        "Carburat gaspill\u00e9": 0.7400000000000001
+    },
+    {
+        "Immatriculation": "HA-992-EK",
+        "Dur\u00e9e d'arr\u00eat": 0.6453105324074074,
+        "Carburat gaspill\u00e9": 17.370000000000005
+    },
+    {
+        "Immatriculation": "HA-195-HQ",
+        "Dur\u00e9e d'arr\u00eat": 0.10879194444444444,
+        "Carburat gaspill\u00e9": 14.61
+    },
+    {
+        "Immatriculation": "HB-858-WH",
+        "Dur\u00e9e d'arr\u00eat": 0.8999783796296296,
+        "Carburat gaspill\u00e9": 90.64999999999999
+    },
+    {
+        "Immatriculation": "GR-695-TJ",
+        "Dur\u00e9e d'arr\u00eat": 1.1809225231481482,
+        "Carburat gaspill\u00e9": 35.52
+    },
+    {
+        "Immatriculation": "HB-609-TK",
+        "Dur\u00e9e d'arr\u00eat": 0.06598556712962964,
+        "Carburat gaspill\u00e9": 7.380000000000003
+    },
+    {
+        "Immatriculation": "HE-236-DC",
+        "Dur\u00e9e d'arr\u00eat": 0.06166445601851852,
+        "Carburat gaspill\u00e9": 3.3100000000000005
+    },
+    {
+        "Immatriculation": "GN-240-VQ",
+        "Dur\u00e9e d'arr\u00eat": 0.04247574074074074,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GP-454-SE",
+        "Dur\u00e9e d'arr\u00eat": 0.24406326388888888,
+        "Carburat gaspill\u00e9": 7.89
+    },
+    {
+        "Immatriculation": "GQ-535-LZ",
+        "Dur\u00e9e d'arr\u00eat": 0.29670335648148144,
+        "Carburat gaspill\u00e9": 12.049999999999999
+    },
+    {
+        "Immatriculation": "HA-246-YV",
+        "Dur\u00e9e d'arr\u00eat": 0.25360403935185183,
+        "Carburat gaspill\u00e9": 29.650000000000006
+    },
+    {
+        "Immatriculation": "HC-135-KX",
+        "Dur\u00e9e d'arr\u00eat": 0.24818083333333335,
+        "Carburat gaspill\u00e9": 52.18999999999998
+    },
+    {
+        "Immatriculation": "GY-109-SL",
+        "Dur\u00e9e d'arr\u00eat": 1.292614849537037,
+        "Carburat gaspill\u00e9": 140.25
+    },
+    {
+        "Immatriculation": "GY-368-QN",
+        "Dur\u00e9e d'arr\u00eat": 1.101485173611111,
+        "Carburat gaspill\u00e9": 150.62999999999997
+    },
+    {
+        "Immatriculation": "HA-955-VK",
+        "Dur\u00e9e d'arr\u00eat": 0.3451032175925926,
+        "Carburat gaspill\u00e9": 43.3
+    },
+    {
+        "Immatriculation": "HA-137-VJ",
+        "Dur\u00e9e d'arr\u00eat": 0.7614016203703704,
+        "Carburat gaspill\u00e9": 91.94
+    },
+    {
+        "Immatriculation": "HC-124-AA",
+        "Dur\u00e9e d'arr\u00eat": 0.4960520023148148,
+        "Carburat gaspill\u00e9": 55.40999999999999
+    },
+    {
+        "Immatriculation": "HA-222-KZ",
+        "Dur\u00e9e d'arr\u00eat": 0.771651712962963,
+        "Carburat gaspill\u00e9": 94.56
+    },
+    {
+        "Immatriculation": "DT-064-WT",
+        "Dur\u00e9e d'arr\u00eat": 0.015516747685185184,
+        "Carburat gaspill\u00e9": 1.39
+    },
+    {
+        "Immatriculation": "HA-044-MV",
+        "Dur\u00e9e d'arr\u00eat": 0.7115946180555556,
+        "Carburat gaspill\u00e9": 74.44000000000001
+    },
+    {
+        "Immatriculation": "HA-977-PA",
+        "Dur\u00e9e d'arr\u00eat": 0.8686489467592593,
+        "Carburat gaspill\u00e9": 89.35000000000002
+    },
+    {
+        "Immatriculation": "HA-311-HR",
+        "Dur\u00e9e d'arr\u00eat": 0.464563125,
+        "Carburat gaspill\u00e9": 52.900000000000006
+    },
+    {
+        "Immatriculation": "HF-591-BZ",
+        "Dur\u00e9e d'arr\u00eat": 0.12756184027777778,
+        "Carburat gaspill\u00e9": 7.34
+    },
+    {
+        "Immatriculation": "HF-471-BZ",
+        "Dur\u00e9e d'arr\u00eat": 0.14604489583333333,
+        "Carburat gaspill\u00e9": 11.950000000000003
+    },
+    {
+        "Immatriculation": "HA-411-YC",
+        "Dur\u00e9e d'arr\u00eat": 0.028610844907407406,
+        "Carburat gaspill\u00e9": 2.39
+    },
+    {
+        "Immatriculation": "GZ-564-RA",
+        "Dur\u00e9e d'arr\u00eat": 0.9132641435185185,
+        "Carburat gaspill\u00e9": 43.940000000000005
+    },
+    {
+        "Immatriculation": "HF-432-LL",
+        "Dur\u00e9e d'arr\u00eat": 0.012019976851851853,
+        "Carburat gaspill\u00e9": 1.5
+    },
+    {
+        "Immatriculation": "HF-952-JV",
+        "Dur\u00e9e d'arr\u00eat": 0.08761107638888889,
+        "Carburat gaspill\u00e9": 18.91
+    },
+    {
+        "Immatriculation": "HF-147-VZ",
+        "Dur\u00e9e d'arr\u00eat": 0.01293841435185185,
+        "Carburat gaspill\u00e9": 0.95
+    },
+    {
+        "Immatriculation": "HF-302-YJ",
+        "Dur\u00e9e d'arr\u00eat": 0.07280157407407407,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HC-577-XN",
+        "Dur\u00e9e d'arr\u00eat": 0.3180891203703704,
+        "Carburat gaspill\u00e9": 68.60000000000001
+    },
+    {
+        "Immatriculation": "GS-750-JC",
+        "Dur\u00e9e d'arr\u00eat": 0.3380913194444444,
+        "Carburat gaspill\u00e9": 12.410000000000004
+    },
+    {
+        "Immatriculation": "HF-076-PV",
+        "Dur\u00e9e d'arr\u00eat": 0.7384499768518519,
+        "Carburat gaspill\u00e9": 84.24
+    },
+    {
+        "Immatriculation": "HE-985-MX",
+        "Dur\u00e9e d'arr\u00eat": 0.10994633101851851,
+        "Carburat gaspill\u00e9": 10.910000000000002
+    },
+    {
+        "Immatriculation": "HD-854-AG",
+        "Dur\u00e9e d'arr\u00eat": 0.7794531828703705,
+        "Carburat gaspill\u00e9": 109.52999999999999
+    },
+    {
+        "Immatriculation": "HD-710-KE",
+        "Dur\u00e9e d'arr\u00eat": 0.6338267361111111,
+        "Carburat gaspill\u00e9": 75.78999999999999
+    },
+    {
+        "Immatriculation": "HB-145-RH",
+        "Dur\u00e9e d'arr\u00eat": 0.33186197916666665,
+        "Carburat gaspill\u00e9": 34.82
+    },
+    {
+        "Immatriculation": "HA-811-ZF",
+        "Dur\u00e9e d'arr\u00eat": 2.0335151041666664,
+        "Carburat gaspill\u00e9": 255.69
+    },
+    {
+        "Immatriculation": "HF-664-MV",
+        "Dur\u00e9e d'arr\u00eat": 1.072568287037037,
+        "Carburat gaspill\u00e9": 117.57
+    },
+    {
+        "Immatriculation": "HF-275-PV",
+        "Dur\u00e9e d'arr\u00eat": 0.6089864236111111,
+        "Carburat gaspill\u00e9": 72.02000000000004
+    },
+    {
+        "Immatriculation": "HF-639-PT",
+        "Dur\u00e9e d'arr\u00eat": 0.8066155092592593,
+        "Carburat gaspill\u00e9": 80.46000000000001
+    },
+    {
+        "Immatriculation": "HA-638-ZF",
+        "Dur\u00e9e d'arr\u00eat": 1.5145275694444444,
+        "Carburat gaspill\u00e9": 183.36000000000004
+    },
+    {
+        "Immatriculation": "HA-260-PM",
+        "Dur\u00e9e d'arr\u00eat": 1.2245606944444445,
+        "Carburat gaspill\u00e9": 48.890000000000015
+    },
+    {
+        "Immatriculation": "GZ-886-ZS",
+        "Dur\u00e9e d'arr\u00eat": 1.0651605439814815,
+        "Carburat gaspill\u00e9": 53.510000000000005
+    },
+    {
+        "Immatriculation": "GZ-077-RB",
+        "Dur\u00e9e d'arr\u00eat": 1.0232164351851851,
+        "Carburat gaspill\u00e9": 48.81000000000001
+    },
+    {
+        "Immatriculation": "FM-766-PE",
+        "Dur\u00e9e d'arr\u00eat": 0.6676794097222222,
+        "Carburat gaspill\u00e9": 25.710000000000004
+    },
+    {
+        "Immatriculation": "HA-682-PL",
+        "Dur\u00e9e d'arr\u00eat": 0.5679343402777778,
+        "Carburat gaspill\u00e9": 23.91999999999999
+    },
+    {
+        "Immatriculation": "HF-973-LN",
+        "Dur\u00e9e d'arr\u00eat": 0.20786814814814816,
+        "Carburat gaspill\u00e9": 14.120000000000005
+    },
+    {
+        "Immatriculation": "HF-071-LP",
+        "Dur\u00e9e d'arr\u00eat": 0.37842194444444444,
+        "Carburat gaspill\u00e9": 27.22
+    },
+    {
+        "Immatriculation": "HF-207-LP",
+        "Dur\u00e9e d'arr\u00eat": 0.09558190972222222,
+        "Carburat gaspill\u00e9": 9.559999999999999
+    },
+    {
+        "Immatriculation": "GQ-283-LQ",
+        "Dur\u00e9e d'arr\u00eat": 0.5651550810185185,
+        "Carburat gaspill\u00e9": 26.36
+    },
+    {
+        "Immatriculation": "HF-084-ZF",
+        "Dur\u00e9e d'arr\u00eat": 0.6794478472222223,
+        "Carburat gaspill\u00e9": 72.71000000000001
+    },
+    {
+        "Immatriculation": "GQ-469-JP",
+        "Dur\u00e9e d'arr\u00eat": 0.27939886574074074,
+        "Carburat gaspill\u00e9": 15.030000000000001
+    },
+    {
+        "Immatriculation": "HG-034-EP",
+        "Dur\u00e9e d'arr\u00eat": 0.21985288194444444,
+        "Carburat gaspill\u00e9": 15.009999999999998
+    },
+    {
+        "Immatriculation": "EZ-984-BH",
+        "Dur\u00e9e d'arr\u00eat": 0.45811289351851847,
+        "Carburat gaspill\u00e9": 14.550000000000002
+    },
+    {
+        "Immatriculation": "HG-029-GH",
+        "Dur\u00e9e d'arr\u00eat": 0.03461206018518519,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HG-694-GF",
+        "Dur\u00e9e d'arr\u00eat": 1.512414039351852,
+        "Carburat gaspill\u00e9": 65.28999999999999
+    },
+    {
+        "Immatriculation": "HG-757-AC",
+        "Dur\u00e9e d'arr\u00eat": 0.10030280092592593,
+        "Carburat gaspill\u00e9": 11.260000000000002
+    },
+    {
+        "Immatriculation": "HF-890-LW",
+        "Dur\u00e9e d'arr\u00eat": 0.23914849537037036,
+        "Carburat gaspill\u00e9": 20.700000000000003
+    },
+    {
+        "Immatriculation": "HG-588-FQ",
+        "Dur\u00e9e d'arr\u00eat": 1.3145265972222222,
+        "Carburat gaspill\u00e9": 126.78000000000002
+    },
+    {
+        "Immatriculation": "HG-818-GE",
+        "Dur\u00e9e d'arr\u00eat": 0.5561740162037037,
+        "Carburat gaspill\u00e9": 24.919999999999998
+    },
+    {
+        "Immatriculation": "HG-540-CM",
+        "Dur\u00e9e d'arr\u00eat": 0.5609799305555555,
+        "Carburat gaspill\u00e9": 62.13000000000001
+    },
+    {
+        "Immatriculation": "HK-841-CH",
+        "Dur\u00e9e d'arr\u00eat": 0.057611134259259254,
+        "Carburat gaspill\u00e9": 4.7700000000000005
+    },
+    {
+        "Immatriculation": "HG-114-QF",
+        "Dur\u00e9e d'arr\u00eat": 0.020772546296296296,
+        "Carburat gaspill\u00e9": 1.9100000000000001
+    },
+    {
+        "Immatriculation": "HG-341-TV",
+        "Dur\u00e9e d'arr\u00eat": 0.45941313657407407,
+        "Carburat gaspill\u00e9": 61.74000000000001
+    },
+    {
+        "Immatriculation": "HG-489-SK",
+        "Dur\u00e9e d'arr\u00eat": 0.027781388888888887,
+        "Carburat gaspill\u00e9": 1.8599999999999999
+    },
+    {
+        "Immatriculation": "GY-034-ZC",
+        "Dur\u00e9e d'arr\u00eat": 0.2746665393518518,
+        "Carburat gaspill\u00e9": 10.270000000000001
+    },
+    {
+        "Immatriculation": "HA-702-HP",
+        "Dur\u00e9e d'arr\u00eat": 0.5593296990740741,
+        "Carburat gaspill\u00e9": 75.22999999999995
+    },
+    {
+        "Immatriculation": "HG-848-TT",
+        "Dur\u00e9e d'arr\u00eat": 0.32187748842592595,
+        "Carburat gaspill\u00e9": 19.670000000000005
+    },
+    {
+        "Immatriculation": "HG-701-QG",
+        "Dur\u00e9e d'arr\u00eat": 0.270447662037037,
+        "Carburat gaspill\u00e9": 24.150000000000002
+    },
+    {
+        "Immatriculation": "HG-811-FW",
+        "Dur\u00e9e d'arr\u00eat": 0.20928614583333333,
+        "Carburat gaspill\u00e9": 15.900000000000002
+    },
+    {
+        "Immatriculation": "HC-238-GZ",
+        "Dur\u00e9e d'arr\u00eat": 1.8993809606481482,
+        "Carburat gaspill\u00e9": 58.90999999999999
+    },
+    {
+        "Immatriculation": "HH-533-DR",
+        "Dur\u00e9e d'arr\u00eat": 0.10330667824074075,
+        "Carburat gaspill\u00e9": 9.18
+    },
+    {
+        "Immatriculation": "HG-454-QG",
+        "Dur\u00e9e d'arr\u00eat": 0.5100228935185186,
+        "Carburat gaspill\u00e9": 50.86000000000001
+    },
+    {
+        "Immatriculation": "HK-597-CH",
+        "Dur\u00e9e d'arr\u00eat": 0.0501255324074074,
+        "Carburat gaspill\u00e9": 5.04
+    },
+    {
+        "Immatriculation": "HK-195-CJ",
+        "Dur\u00e9e d'arr\u00eat": 0.052342233796296295,
+        "Carburat gaspill\u00e9": 5.78
+    },
+    {
+        "Immatriculation": "HH-602-PG",
+        "Dur\u00e9e d'arr\u00eat": 0.03804247685185185,
+        "Carburat gaspill\u00e9": 2.27
+    },
+    {
+        "Immatriculation": "HH-750-PG",
+        "Dur\u00e9e d'arr\u00eat": 0.003942395833333333,
+        "Carburat gaspill\u00e9": 0.27
+    },
+    {
+        "Immatriculation": "HG-567-EE",
+        "Dur\u00e9e d'arr\u00eat": 0.7967862731481482,
+        "Carburat gaspill\u00e9": 54.039999999999985
+    },
+    {
+        "Immatriculation": "HF-296-WF",
+        "Dur\u00e9e d'arr\u00eat": 0.3042708796296296,
+        "Carburat gaspill\u00e9": 16.709999999999994
+    },
+    {
+        "Immatriculation": "GZ-701-SV",
+        "Dur\u00e9e d'arr\u00eat": 1.0163431944444443,
+        "Carburat gaspill\u00e9": 17.64
+    },
+    {
+        "Immatriculation": "HH-714-FQ",
+        "Dur\u00e9e d'arr\u00eat": 0.08999216435185185,
+        "Carburat gaspill\u00e9": 8.109999999999998
+    },
+    {
+        "Immatriculation": "HH-409-TF",
+        "Dur\u00e9e d'arr\u00eat": 0.1277097800925926,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HH-487-TF",
+        "Dur\u00e9e d'arr\u00eat": 0.0132684375,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GY-826-PE",
+        "Dur\u00e9e d'arr\u00eat": 0.296223587962963,
+        "Carburat gaspill\u00e9": 25.080000000000005
+    },
+    {
+        "Immatriculation": "GZ-529-YZ",
+        "Dur\u00e9e d'arr\u00eat": 0.6138279629629629,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HG-675-AE",
+        "Dur\u00e9e d'arr\u00eat": 0.15851520833333332,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HJ-243-FC",
+        "Dur\u00e9e d'arr\u00eat": 0.08317645833333333,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "FA-264-NN",
+        "Dur\u00e9e d'arr\u00eat": 2.053645752314815,
+        "Carburat gaspill\u00e9": 183.33
+    },
+    {
+        "Immatriculation": "HJ-129-GS",
+        "Dur\u00e9e d'arr\u00eat": 0.08705849537037037,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HJ-545-JC",
+        "Dur\u00e9e d'arr\u00eat": 0.10915115740740741,
+        "Carburat gaspill\u00e9": 9.469999999999999
+    },
+    {
+        "Immatriculation": "GM-813-DD",
+        "Dur\u00e9e d'arr\u00eat": 0.7948526041666667,
+        "Carburat gaspill\u00e9": 28.650000000000002
+    },
+    {
+        "Immatriculation": "GA-216-TF",
+        "Dur\u00e9e d'arr\u00eat": 1.011778900462963,
+        "Carburat gaspill\u00e9": 31.109999999999992
+    },
+    {
+        "Immatriculation": "HJ-683-NX",
+        "Dur\u00e9e d'arr\u00eat": 0.1581390625,
+        "Carburat gaspill\u00e9": 11.85
+    },
+    {
+        "Immatriculation": "HJ-909-JV",
+        "Dur\u00e9e d'arr\u00eat": 0.12007989583333334,
+        "Carburat gaspill\u00e9": 8.17
+    },
+    {
+        "Immatriculation": "HJ-073-RH",
+        "Dur\u00e9e d'arr\u00eat": 0.026373958333333333,
+        "Carburat gaspill\u00e9": 2.3
+    },
+    {
+        "Immatriculation": "HJ-143-RG",
+        "Dur\u00e9e d'arr\u00eat": 0.18928436342592592,
+        "Carburat gaspill\u00e9": 13.249999999999998
+    },
+    {
+        "Immatriculation": "HJ-008-RZ",
+        "Dur\u00e9e d'arr\u00eat": 0.03417559027777778,
+        "Carburat gaspill\u00e9": 2.01
+    },
+    {
+        "Immatriculation": "HJ-856-SB",
+        "Dur\u00e9e d'arr\u00eat": 0.26601011574074074,
+        "Carburat gaspill\u00e9": 21.29
+    },
+    {
+        "Immatriculation": "HJ-639-SB",
+        "Dur\u00e9e d'arr\u00eat": 0.15572703703703705,
+        "Carburat gaspill\u00e9": 10.889999999999999
+    },
+    {
+        "Immatriculation": "HJ-044-RG",
+        "Dur\u00e9e d'arr\u00eat": 0.23548358796296295,
+        "Carburat gaspill\u00e9": 12.559999999999997
+    },
+    {
+        "Immatriculation": "HJ-777-TM",
+        "Dur\u00e9e d'arr\u00eat": 0.1842439814814815,
+        "Carburat gaspill\u00e9": 12.71
+    },
+    {
+        "Immatriculation": "HJ-366-WM",
+        "Dur\u00e9e d'arr\u00eat": 0.10390780092592593,
+        "Carburat gaspill\u00e9": 6.869999999999999
+    },
+    {
+        "Immatriculation": "HJ-086-ZL",
+        "Dur\u00e9e d'arr\u00eat": 0.01907802083333333,
+        "Carburat gaspill\u00e9": 3.47
+    },
+    {
+        "Immatriculation": "HJ-828-RD",
+        "Dur\u00e9e d'arr\u00eat": 0.03509064814814815,
+        "Carburat gaspill\u00e9": 2.66
+    },
+    {
+        "Immatriculation": "HJ-872-RE",
+        "Dur\u00e9e d'arr\u00eat": 0.08272260416666667,
+        "Carburat gaspill\u00e9": 21.26
+    },
+    {
+        "Immatriculation": "HK-917-DB",
+        "Dur\u00e9e d'arr\u00eat": 0.020826979166666666,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HK-364-AB",
+        "Dur\u00e9e d'arr\u00eat": 0.017421597222222224,
+        "Carburat gaspill\u00e9": 1.77
+    },
+    {
+        "Immatriculation": "HK-258-BC",
+        "Dur\u00e9e d'arr\u00eat": 0.06206707175925926,
+        "Carburat gaspill\u00e9": 5.749999999999999
+    },
+    {
+        "Immatriculation": "GR-001-CG",
+        "Dur\u00e9e d'arr\u00eat": 0.45077863425925924,
+        "Carburat gaspill\u00e9": 14.710000000000004
+    },
+    {
+        "Immatriculation": "HK-852-CP",
+        "Dur\u00e9e d'arr\u00eat": 0.014181886574074074,
+        "Carburat gaspill\u00e9": 1.7899999999999998
+    },
+    {
+        "Immatriculation": "HK-251-HZ",
+        "Dur\u00e9e d'arr\u00eat": 0.039953113425925925,
+        "Carburat gaspill\u00e9": 5.0600000000000005
+    },
+    {
+        "Immatriculation": "HK-309-CN",
+        "Dur\u00e9e d'arr\u00eat": 0.03184962962962963,
+        "Carburat gaspill\u00e9": 4.470000000000001
+    },
+    {
+        "Immatriculation": "HK-733-DP",
+        "Dur\u00e9e d'arr\u00eat": 0.06263222222222223,
+        "Carburat gaspill\u00e9": 10.51
+    },
+    {
+        "Immatriculation": "HK-081-EL",
+        "Dur\u00e9e d'arr\u00eat": 0.15052594907407407,
+        "Carburat gaspill\u00e9": 14.709999999999999
+    },
+    {
+        "Immatriculation": "FM-861-PE",
+        "Dur\u00e9e d'arr\u00eat": 0.25767240740740743,
+        "Carburat gaspill\u00e9": 11.169999999999998
+    },
+    {
+        "Immatriculation": "FH-183-WT",
+        "Dur\u00e9e d'arr\u00eat": 0.2776462384259259,
+        "Carburat gaspill\u00e9": 12.499999999999998
+    },
+    {
+        "Immatriculation": "HJ-575-NW",
+        "Dur\u00e9e d'arr\u00eat": 1.0028011342592593,
+        "Carburat gaspill\u00e9": 38.51
+    },
+    {
+        "Immatriculation": "GN-118-TT",
+        "Dur\u00e9e d'arr\u00eat": 0.2502153587962963,
+        "Carburat gaspill\u00e9": 6.299999999999999
+    },
+    {
+        "Immatriculation": "HK-602-FK",
+        "Dur\u00e9e d'arr\u00eat": 0.04603050925925926,
+        "Carburat gaspill\u00e9": 4.48
+    },
+    {
+        "Immatriculation": "GP-986-HG",
+        "Dur\u00e9e d'arr\u00eat": 0.17616449074074073,
+        "Carburat gaspill\u00e9": 6.4399999999999995
+    },
+    {
+        "Immatriculation": "GX-879-NT",
+        "Dur\u00e9e d'arr\u00eat": 0.9984551041666666,
+        "Carburat gaspill\u00e9": 124.26999999999998
+    },
+    {
+        "Immatriculation": "HA-458-ZM",
+        "Dur\u00e9e d'arr\u00eat": 0.8430232060185185,
+        "Carburat gaspill\u00e9": 99.4
+    },
+    {
+        "Immatriculation": "HA-582-GC",
+        "Dur\u00e9e d'arr\u00eat": 0.03864587962962963,
+        "Carburat gaspill\u00e9": 2.7
+    },
+    {
+        "Immatriculation": "HK-303-LL",
+        "Dur\u00e9e d'arr\u00eat": 0.8450888657407407,
+        "Carburat gaspill\u00e9": 29.640000000000004
+    },
+    {
+        "Immatriculation": "HK-615-KZ",
+        "Dur\u00e9e d'arr\u00eat": 0.15618613425925926,
+        "Carburat gaspill\u00e9": 11.299999999999999
+    },
+    {
+        "Immatriculation": "HK-194-GJ",
+        "Dur\u00e9e d'arr\u00eat": 0.2922299074074074,
+        "Carburat gaspill\u00e9": 18.279999999999998
+    },
+    {
+        "Immatriculation": "HK-966-QR",
+        "Dur\u00e9e d'arr\u00eat": 0.33319023148148147,
+        "Carburat gaspill\u00e9": 39.48
+    },
+    {
+        "Immatriculation": "HK-628-QR",
+        "Dur\u00e9e d'arr\u00eat": 0.4893089814814815,
+        "Carburat gaspill\u00e9": 67.15
+    },
+    {
+        "Immatriculation": "HA-391-GB",
+        "Dur\u00e9e d'arr\u00eat": 0.05208046296296297,
+        "Carburat gaspill\u00e9": 4.5
+    },
+    {
+        "Immatriculation": "HL-629-FJ",
+        "Dur\u00e9e d'arr\u00eat": 0.09982520833333332,
+        "Carburat gaspill\u00e9": 9.57
+    },
+    {
+        "Immatriculation": "HL-159-ME",
+        "Dur\u00e9e d'arr\u00eat": 0.014399525462962961,
+        "Carburat gaspill\u00e9": 1.68
+    },
+    {
+        "Immatriculation": "HL-591-MC",
+        "Dur\u00e9e d'arr\u00eat": 0.038294699074074075,
+        "Carburat gaspill\u00e9": 1.9000000000000001
+    },
+    {
+        "Immatriculation": "HL-064-HW",
+        "Dur\u00e9e d'arr\u00eat": 0.08788782407407407,
+        "Carburat gaspill\u00e9": 9.700000000000003
+    },
+    {
+        "Immatriculation": "HL-217-NJ",
+        "Dur\u00e9e d'arr\u00eat": 0.03158803240740741,
+        "Carburat gaspill\u00e9": 3.1700000000000004
+    },
+    {
+        "Immatriculation": "HL-976-TH",
+        "Dur\u00e9e d'arr\u00eat": 0.055714004629629624,
+        "Carburat gaspill\u00e9": 7.160000000000001
+    },
+    {
+        "Immatriculation": "HB-798-GS Cacahu\u00e8te",
+        "Dur\u00e9e d'arr\u00eat": 0.023404583333333333,
+        "Carburat gaspill\u00e9": 0.52
+    },
+    {
+        "Immatriculation": "DW-883-BR",
+        "Dur\u00e9e d'arr\u00eat": 0.1445280787037037,
+        "Carburat gaspill\u00e9": 9.06
+    },
+    {
+        "Immatriculation": "GP-188-ZF",
+        "Dur\u00e9e d'arr\u00eat": 0.8080537847222221,
+        "Carburat gaspill\u00e9": 19.52
+    },
+    {
+        "Immatriculation": "ET-914-YX",
+        "Dur\u00e9e d'arr\u00eat": 0.011883668981481481,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HL-578-YS",
+        "Dur\u00e9e d'arr\u00eat": 0.30907086805555556,
+        "Carburat gaspill\u00e9": 24.700000000000003
+    },
+    {
+        "Immatriculation": "HL-570-YC",
+        "Dur\u00e9e d'arr\u00eat": 0.2138475,
+        "Carburat gaspill\u00e9": 17.05
+    },
+    {
+        "Immatriculation": "HL-952-WP",
+        "Dur\u00e9e d'arr\u00eat": 0.10999438657407407,
+        "Carburat gaspill\u00e9": 8.549999999999999
+    },
+    {
+        "Immatriculation": "HM-403-DS",
+        "Dur\u00e9e d'arr\u00eat": 0.04156603009259259,
+        "Carburat gaspill\u00e9": 4.46
+    },
+    {
+        "Immatriculation": "HM-799-CD",
+        "Dur\u00e9e d'arr\u00eat": 0.010424768518518519,
+        "Carburat gaspill\u00e9": 0.41
+    },
+    {
+        "Immatriculation": "FQ-575-KG",
+        "Dur\u00e9e d'arr\u00eat": 0.08012570601851851,
+        "Carburat gaspill\u00e9": 6.359999999999999
+    },
+    {
+        "Immatriculation": "HM-656-AJ",
+        "Dur\u00e9e d'arr\u00eat": 0.08613706018518519,
+        "Carburat gaspill\u00e9": 7.2
+    },
+    {
+        "Immatriculation": "HK-797-KD",
+        "Dur\u00e9e d'arr\u00eat": 0.015206585648148148,
+        "Carburat gaspill\u00e9": 1.57
+    },
+    {
+        "Immatriculation": "FT-966-XF",
+        "Dur\u00e9e d'arr\u00eat": 0.9178741087962964,
+        "Carburat gaspill\u00e9": 78.63000000000005
+    },
+    {
+        "Immatriculation": "GH-931-QW",
+        "Dur\u00e9e d'arr\u00eat": 0.01095556712962963,
+        "Carburat gaspill\u00e9": 1.51
+    },
+    {
+        "Immatriculation": "ER-911-TW",
+        "Dur\u00e9e d'arr\u00eat": 0.023774837962962966,
+        "Carburat gaspill\u00e9": 1.07
+    },
+    {
+        "Immatriculation": "DX-992-LX",
+        "Dur\u00e9e d'arr\u00eat": 0.04642166666666667,
+        "Carburat gaspill\u00e9": 4.63
+    },
+    {
+        "Immatriculation": "FQ-217-ZT",
+        "Dur\u00e9e d'arr\u00eat": 0.022278310185185186,
+        "Carburat gaspill\u00e9": 2.0600000000000005
+    },
+    {
+        "Immatriculation": "FR-193-MW",
+        "Dur\u00e9e d'arr\u00eat": 0.08408199074074074,
+        "Carburat gaspill\u00e9": 12.870000000000001
+    },
+    {
+        "Immatriculation": "GL-845-CX",
+        "Dur\u00e9e d'arr\u00eat": 0.18960907407407407,
+        "Carburat gaspill\u00e9": 13.360000000000001
+    },
+    {
+        "Immatriculation": "FF-326-QM",
+        "Dur\u00e9e d'arr\u00eat": 0.14299410879629632,
+        "Carburat gaspill\u00e9": 14.899999999999997
+    },
+    {
+        "Immatriculation": "EB-835-DQ",
+        "Dur\u00e9e d'arr\u00eat": 0.06644896990740741,
+        "Carburat gaspill\u00e9": 5.909999999999999
+    },
+    {
+        "Immatriculation": "GK-270-GR",
+        "Dur\u00e9e d'arr\u00eat": 0.0038445717592592594,
+        "Carburat gaspill\u00e9": 0.3
+    },
+    {
+        "Immatriculation": "GE-159-GP",
+        "Dur\u00e9e d'arr\u00eat": 0.20616934027777778,
+        "Carburat gaspill\u00e9": 10.51
+    },
+    {
+        "Immatriculation": "FF-527-NG",
+        "Dur\u00e9e d'arr\u00eat": 0.3020247337962963,
+        "Carburat gaspill\u00e9": 16.63
+    },
+    {
+        "Immatriculation": "FR-833-PV",
+        "Dur\u00e9e d'arr\u00eat": 0.09048067129629629,
+        "Carburat gaspill\u00e9": 5.950000000000001
+    },
+    {
+        "Immatriculation": "GN-467-SG",
+        "Dur\u00e9e d'arr\u00eat": 1.453872835648148,
+        "Carburat gaspill\u00e9": 168.61999999999995
+    },
+    {
+        "Immatriculation": "GN-593-SE",
+        "Dur\u00e9e d'arr\u00eat": 0.4139573263888889,
+        "Carburat gaspill\u00e9": 40.470000000000006
+    },
+    {
+        "Immatriculation": "EF-839-XN",
+        "Dur\u00e9e d'arr\u00eat": 0.05747918981481482,
+        "Carburat gaspill\u00e9": 4.779999999999999
+    },
+    {
+        "Immatriculation": "FR-669-QM",
+        "Dur\u00e9e d'arr\u00eat": 0.020866377314814815,
+        "Carburat gaspill\u00e9": 1.74
+    },
+    {
+        "Immatriculation": "FA-078-ZF",
+        "Dur\u00e9e d'arr\u00eat": 0.005544027777777778,
+        "Carburat gaspill\u00e9": 0.46
+    },
+    {
+        "Immatriculation": "FA-096-YF",
+        "Dur\u00e9e d'arr\u00eat": 0.025126631944444443,
+        "Carburat gaspill\u00e9": 1.58
+    },
+    {
+        "Immatriculation": "GP-445-MS",
+        "Dur\u00e9e d'arr\u00eat": 0.032936516203703706,
+        "Carburat gaspill\u00e9": 3.99
+    },
+    {
+        "Immatriculation": "GP-212-MS",
+        "Dur\u00e9e d'arr\u00eat": 0.011362604166666667,
+        "Carburat gaspill\u00e9": 1.26
+    },
+    {
+        "Immatriculation": "DX-425-SV",
+        "Dur\u00e9e d'arr\u00eat": 0.08722506944444444,
+        "Carburat gaspill\u00e9": 9.65
+    },
+    {
+        "Immatriculation": "FF-815-AQ",
+        "Dur\u00e9e d'arr\u00eat": 0.4838326967592592,
+        "Carburat gaspill\u00e9": 63.14000000000001
+    },
+    {
+        "Immatriculation": "FF-327-AR",
+        "Dur\u00e9e d'arr\u00eat": 0.7269436689814814,
+        "Carburat gaspill\u00e9": 77.32000000000001
+    },
+    {
+        "Immatriculation": "GS-837-RT",
+        "Dur\u00e9e d'arr\u00eat": 0.3723124884259259,
+        "Carburat gaspill\u00e9": 16.799999999999997
+    },
+    {
+        "Immatriculation": "GP-970-ZD",
+        "Dur\u00e9e d'arr\u00eat": 0.6454306828703704,
+        "Carburat gaspill\u00e9": 56.13
+    },
+    {
+        "Immatriculation": "GK-048-CS",
+        "Dur\u00e9e d'arr\u00eat": 0.33063943287037034,
+        "Carburat gaspill\u00e9": 55.80000000000001
+    },
+    {
+        "Immatriculation": "HG-031-GE",
+        "Dur\u00e9e d'arr\u00eat": 0.07663910879629629,
+        "Carburat gaspill\u00e9": 6.25
+    },
+    {
+        "Immatriculation": "GJ-501-ZZ",
+        "Dur\u00e9e d'arr\u00eat": 1.0055787268518517,
+        "Carburat gaspill\u00e9": 46.72000000000001
+    },
+    {
+        "Immatriculation": "EE-054-CY",
+        "Dur\u00e9e d'arr\u00eat": 0.13373525462962962,
+        "Carburat gaspill\u00e9": 7.6
+    },
+    {
+        "Immatriculation": "ES-521-JG",
+        "Dur\u00e9e d'arr\u00eat": 0.02322490740740741,
+        "Carburat gaspill\u00e9": 1.5799999999999998
+    },
+    {
+        "Immatriculation": "GK-148-CK",
+        "Dur\u00e9e d'arr\u00eat": 0.025348240740740744,
+        "Carburat gaspill\u00e9": 3.3199999999999994
+    },
+    {
+        "Immatriculation": "GL-327-RM",
+        "Dur\u00e9e d'arr\u00eat": 0.005029166666666666,
+        "Carburat gaspill\u00e9": 0.38
+    },
+    {
+        "Immatriculation": "GK-019-WY",
+        "Dur\u00e9e d'arr\u00eat": 0.007475416666666667,
+        "Carburat gaspill\u00e9": 1.22
+    },
+    {
+        "Immatriculation": "GW-843-JB",
+        "Dur\u00e9e d'arr\u00eat": 0.8001803935185184,
+        "Carburat gaspill\u00e9": 42.11999999999998
+    },
+    {
+        "Immatriculation": "HA-242-TP",
+        "Dur\u00e9e d'arr\u00eat": 0.32876806712962964,
+        "Carburat gaspill\u00e9": 40.109999999999985
+    },
+    {
+        "Immatriculation": "DV-547-NT",
+        "Dur\u00e9e d'arr\u00eat": 0.005700347222222222,
+        "Carburat gaspill\u00e9": 0.32
+    },
+    {
+        "Immatriculation": "GX-430-GY",
+        "Dur\u00e9e d'arr\u00eat": 0.24881216435185186,
+        "Carburat gaspill\u00e9": 20.690000000000005
+    },
+    {
+        "Immatriculation": "G34U-Z52-2GC",
+        "Dur\u00e9e d'arr\u00eat": 0.01992476851851852,
+        "Carburat gaspill\u00e9": 1.07
+    },
+    {
+        "Immatriculation": "GR-209-YX",
+        "Dur\u00e9e d'arr\u00eat": 0.11690140046296298,
+        "Carburat gaspill\u00e9": 6.03
+    },
+    {
+        "Immatriculation": "GK-960-SQ",
+        "Dur\u00e9e d'arr\u00eat": 0.013421770833333334,
+        "Carburat gaspill\u00e9": 0.99
+    },
+    {
+        "Immatriculation": "GR-635-ZR",
+        "Dur\u00e9e d'arr\u00eat": 0.00978107638888889,
+        "Carburat gaspill\u00e9": 0.28
+    },
+    {
+        "Immatriculation": "EH-339-ST",
+        "Dur\u00e9e d'arr\u00eat": 0.03283224537037037,
+        "Carburat gaspill\u00e9": 1.13
+    },
+    {
+        "Immatriculation": "GL-471-XJ",
+        "Dur\u00e9e d'arr\u00eat": 0.3188868634259259,
+        "Carburat gaspill\u00e9": 35.28000000000001
+    },
+    {
+        "Immatriculation": "ES-623-GV",
+        "Dur\u00e9e d'arr\u00eat": 0.029706527777777776,
+        "Carburat gaspill\u00e9": 4.06
+    },
+    {
+        "Immatriculation": "DT-136-PG",
+        "Dur\u00e9e d'arr\u00eat": 0.008098425925925926,
+        "Carburat gaspill\u00e9": 1.46
+    },
+    {
+        "Immatriculation": "GV-676-VR",
+        "Dur\u00e9e d'arr\u00eat": 0.33963924768518516,
+        "Carburat gaspill\u00e9": 41.71
+    },
+    {
+        "Immatriculation": "GW-284-QQ",
+        "Dur\u00e9e d'arr\u00eat": 0.5220328587962964,
+        "Carburat gaspill\u00e9": 59.53999999999999
+    },
+    {
+        "Immatriculation": "DW-312-TE",
+        "Dur\u00e9e d'arr\u00eat": 0.04759815972222222,
+        "Carburat gaspill\u00e9": 5.51
+    },
+    {
+        "Immatriculation": "DW-050-PV",
+        "Dur\u00e9e d'arr\u00eat": 0.0017095370370370372,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "DX-166-GY",
+        "Dur\u00e9e d'arr\u00eat": 0.0614030787037037,
+        "Carburat gaspill\u00e9": 6.029999999999999
+    },
+    {
+        "Immatriculation": "GK-511-SZ",
+        "Dur\u00e9e d'arr\u00eat": 0.7348110648148148,
+        "Carburat gaspill\u00e9": 91.69000000000001
+    },
+    {
+        "Immatriculation": "GX-575-MG",
+        "Dur\u00e9e d'arr\u00eat": 0.1618175347222222,
+        "Carburat gaspill\u00e9": 13.399999999999999
+    },
+    {
+        "Immatriculation": "GN-898-DP",
+        "Dur\u00e9e d'arr\u00eat": 0.03792048611111111,
+        "Carburat gaspill\u00e9": 1.2
+    },
+    {
+        "Immatriculation": "ES-885-LG",
+        "Dur\u00e9e d'arr\u00eat": 0.2867351388888889,
+        "Carburat gaspill\u00e9": 20.77
+    },
+    {
+        "Immatriculation": "GX-163-GY",
+        "Dur\u00e9e d'arr\u00eat": 0.23053020833333335,
+        "Carburat gaspill\u00e9": 18.24000000000001
+    },
+    {
+        "Immatriculation": "GW-313-PB",
+        "Dur\u00e9e d'arr\u00eat": 0.5100853356481482,
+        "Carburat gaspill\u00e9": 50.639999999999986
+    },
+    {
+        "Immatriculation": "GY-417-BA",
+        "Dur\u00e9e d'arr\u00eat": 0.47512723379629634,
+        "Carburat gaspill\u00e9": 52.18000000000001
+    },
+    {
+        "Immatriculation": "GJ-713-YY",
+        "Dur\u00e9e d'arr\u00eat": 0.5182573611111111,
+        "Carburat gaspill\u00e9": 18.410000000000004
+    },
+    {
+        "Immatriculation": "GY-264-QV",
+        "Dur\u00e9e d'arr\u00eat": 0.07796756944444444,
+        "Carburat gaspill\u00e9": 7.059999999999999
+    },
+    {
+        "Immatriculation": "HA-784-BZ",
+        "Dur\u00e9e d'arr\u00eat": 0.0315021875,
+        "Carburat gaspill\u00e9": 3.26
+    },
+    {
+        "Immatriculation": "HA-944-QW",
+        "Dur\u00e9e d'arr\u00eat": 0.042387986111111116,
+        "Carburat gaspill\u00e9": 3.16
+    },
+    {
+        "Immatriculation": "HB-200-FQ",
+        "Dur\u00e9e d'arr\u00eat": 0.21643276620370372,
+        "Carburat gaspill\u00e9": 27.699999999999996
+    },
+    {
+        "Immatriculation": "HB-493-GT",
+        "Dur\u00e9e d'arr\u00eat": 0.02095020833333333,
+        "Carburat gaspill\u00e9": 2.5900000000000003
+    },
+    {
+        "Immatriculation": "FP-026-ZH",
+        "Dur\u00e9e d'arr\u00eat": 0.5861388773148147,
+        "Carburat gaspill\u00e9": 20.640000000000004
+    },
+    {
+        "Immatriculation": "HB-942-SF",
+        "Dur\u00e9e d'arr\u00eat": 0.011758356481481482,
+        "Carburat gaspill\u00e9": 1.58
+    },
+    {
+        "Immatriculation": "HA-304-KH",
+        "Dur\u00e9e d'arr\u00eat": 0.001477962962962963,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HB-760-YH",
+        "Dur\u00e9e d'arr\u00eat": 0.040478541666666666,
+        "Carburat gaspill\u00e9": 3.9699999999999998
+    },
+    {
+        "Immatriculation": "HC-523-FK",
+        "Dur\u00e9e d'arr\u00eat": 0.1805445138888889,
+        "Carburat gaspill\u00e9": 20.970000000000002
+    },
+    {
+        "Immatriculation": "GY-180-PY",
+        "Dur\u00e9e d'arr\u00eat": 0.46615,
+        "Carburat gaspill\u00e9": 46.87
+    },
+    {
+        "Immatriculation": "HA-010-RS",
+        "Dur\u00e9e d'arr\u00eat": 0.7117197453703704,
+        "Carburat gaspill\u00e9": 85.74999999999999
+    },
+    {
+        "Immatriculation": "HE-044-RE",
+        "Dur\u00e9e d'arr\u00eat": 0.015456840277777778,
+        "Carburat gaspill\u00e9": 0.98
+    },
+    {
+        "Immatriculation": "HF-525-NF",
+        "Dur\u00e9e d'arr\u00eat": 0.01595988425925926,
+        "Carburat gaspill\u00e9": 1.62
+    },
+    {
+        "Immatriculation": "HF-826-NV",
+        "Dur\u00e9e d'arr\u00eat": 0.07089594907407407,
+        "Carburat gaspill\u00e9": 4.4799999999999995
+    },
+    {
+        "Immatriculation": "HF-580-YW",
+        "Dur\u00e9e d'arr\u00eat": 0.017660717592592592,
+        "Carburat gaspill\u00e9": 1.83
+    },
+    {
+        "Immatriculation": "HF-717-PV",
+        "Dur\u00e9e d'arr\u00eat": 0.3858742824074074,
+        "Carburat gaspill\u00e9": 40.16000000000001
+    },
+    {
+        "Immatriculation": "HG-259-GF",
+        "Dur\u00e9e d'arr\u00eat": 0.30134385416666665,
+        "Carburat gaspill\u00e9": 9.33
+    },
+    {
+        "Immatriculation": "HG-134-GE",
+        "Dur\u00e9e d'arr\u00eat": 0.3698910185185185,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HG-692-GG",
+        "Dur\u00e9e d'arr\u00eat": 0.6648889699074074,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HL-072-WN",
+        "Dur\u00e9e d'arr\u00eat": 0.04904090277777778,
+        "Carburat gaspill\u00e9": 6.790000000000001
+    },
+    {
+        "Immatriculation": "HL-537-ZC",
+        "Dur\u00e9e d'arr\u00eat": 0.033545937500000005,
+        "Carburat gaspill\u00e9": 5.040000000000001
+    },
+    {
+        "Immatriculation": "GS-193-CT",
+        "Dur\u00e9e d'arr\u00eat": 0.009010671296296296,
+        "Carburat gaspill\u00e9": 0.72
+    },
+    {
+        "Immatriculation": "GG-310-VS",
+        "Dur\u00e9e d'arr\u00eat": 0.16641215277777777,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HJ-561-MF",
+        "Dur\u00e9e d'arr\u00eat": 0.1657834375,
+        "Carburat gaspill\u00e9": 12.12
+    },
+    {
+        "Immatriculation": "GQ-898-KN",
+        "Dur\u00e9e d'arr\u00eat": 0.11420575231481482,
+        "Carburat gaspill\u00e9": 5.73
+    },
+    {
+        "Immatriculation": "HJ-053-PN",
+        "Dur\u00e9e d'arr\u00eat": 0.3939761458333333,
+        "Carburat gaspill\u00e9": 28.60000000000001
+    },
+    {
+        "Immatriculation": "HJ-710-ZK",
+        "Dur\u00e9e d'arr\u00eat": 0.010381782407407407,
+        "Carburat gaspill\u00e9": 0.5
+    },
+    {
+        "Immatriculation": "GV-714-ZF",
+        "Dur\u00e9e d'arr\u00eat": 0.002478738425925926,
+        "Carburat gaspill\u00e9": 0.12
+    },
+    {
+        "Immatriculation": "GF-988-GG",
+        "Dur\u00e9e d'arr\u00eat": 0.13403665509259258,
+        "Carburat gaspill\u00e9": 2.4600000000000004
+    },
+    {
+        "Immatriculation": "HK-417-DN",
+        "Dur\u00e9e d'arr\u00eat": 0.10119902777777777,
+        "Carburat gaspill\u00e9": 18.830000000000002
+    },
+    {
+        "Immatriculation": "GW-059-EN",
+        "Dur\u00e9e d'arr\u00eat": 0.0673204513888889,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GN-786-WA",
+        "Dur\u00e9e d'arr\u00eat": 0.20848052083333335,
+        "Carburat gaspill\u00e9": 6.239999999999999
+    },
+    {
+        "Immatriculation": "HL-515-HW",
+        "Dur\u00e9e d'arr\u00eat": 0.20144322916666665,
+        "Carburat gaspill\u00e9": 15.149999999999999
+    },
+    {
+        "Immatriculation": "DW-773-YG",
+        "Dur\u00e9e d'arr\u00eat": 0.030904849537037038,
+        "Carburat gaspill\u00e9": 2.95
+    },
+    {
+        "Immatriculation": "HL-724-XQ",
+        "Dur\u00e9e d'arr\u00eat": 0.14009225694444444,
+        "Carburat gaspill\u00e9": 11.049999999999997
+    },
+    {
+        "Immatriculation": "HL-177-YT",
+        "Dur\u00e9e d'arr\u00eat": 0.1750921064814815,
+        "Carburat gaspill\u00e9": 14.269999999999998
+    },
+    {
+        "Immatriculation": "EA-206-DW",
+        "Dur\u00e9e d'arr\u00eat": 0.006191736111111111,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "EZ-411-LJ",
+        "Dur\u00e9e d'arr\u00eat": 0.02588855324074074,
+        "Carburat gaspill\u00e9": 2.23
+    },
+    {
+        "Immatriculation": "GR-728-QJ",
+        "Dur\u00e9e d'arr\u00eat": 0.05032175925925926,
+        "Carburat gaspill\u00e9": 6.809999999999999
+    },
+    {
+        "Immatriculation": "CV-018-DH",
+        "Dur\u00e9e d'arr\u00eat": 0.0032952430555555556,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "EZ-040-GR",
+        "Dur\u00e9e d'arr\u00eat": 0.04826790509259259,
+        "Carburat gaspill\u00e9": 3.26
+    },
+    {
+        "Immatriculation": "EF-550-HR",
+        "Dur\u00e9e d'arr\u00eat": 0.003601574074074074,
+        "Carburat gaspill\u00e9": 0.47
+    },
+    {
+        "Immatriculation": "HA-879-LH",
+        "Dur\u00e9e d'arr\u00eat": 0.41392535879629627,
+        "Carburat gaspill\u00e9": 40.53999999999999
+    },
+    {
+        "Immatriculation": "FT-921-JZ",
+        "Dur\u00e9e d'arr\u00eat": 0.007566597222222223,
+        "Carburat gaspill\u00e9": 1.28
+    },
+    {
+        "Immatriculation": "FT-084-CD",
+        "Dur\u00e9e d'arr\u00eat": 0.017202037037037037,
+        "Carburat gaspill\u00e9": 1.51
+    },
+    {
+        "Immatriculation": "DX-440-GY",
+        "Dur\u00e9e d'arr\u00eat": 0.001935474537037037,
+        "Carburat gaspill\u00e9": 0.46
+    },
+    {
+        "Immatriculation": "EA-523-LD",
+        "Dur\u00e9e d'arr\u00eat": 0.025538935185185182,
+        "Carburat gaspill\u00e9": 1.93
+    },
+    {
+        "Immatriculation": "ES-365-LY",
+        "Dur\u00e9e d'arr\u00eat": 0.12173542824074075,
+        "Carburat gaspill\u00e9": 8.799999999999999
+    },
+    {
+        "Immatriculation": "GM-417-FV",
+        "Dur\u00e9e d'arr\u00eat": 0.014896469907407409,
+        "Carburat gaspill\u00e9": 1.04
+    },
+    {
+        "Immatriculation": "GR-584-CW",
+        "Dur\u00e9e d'arr\u00eat": 0.017114074074074073,
+        "Carburat gaspill\u00e9": 1.5
+    },
+    {
+        "Immatriculation": "GK-318-RS",
+        "Dur\u00e9e d'arr\u00eat": 0.00432119212962963,
+        "Carburat gaspill\u00e9": 0.09
+    },
+    {
+        "Immatriculation": "HJ-304-PM",
+        "Dur\u00e9e d'arr\u00eat": 0.002173773148148148,
+        "Carburat gaspill\u00e9": 0.3
+    },
+    {
+        "Immatriculation": "GL-419-MQ",
+        "Dur\u00e9e d'arr\u00eat": 0.0015925810185185183,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "DY-273-RQ",
+        "Dur\u00e9e d'arr\u00eat": 0.030204085648148145,
+        "Carburat gaspill\u00e9": 3.2399999999999998
+    },
+    {
+        "Immatriculation": "GG-593-LQ",
+        "Dur\u00e9e d'arr\u00eat": 0.028592743055555557,
+        "Carburat gaspill\u00e9": 1.12
+    },
+    {
+        "Immatriculation": "HE-250-ER",
+        "Dur\u00e9e d'arr\u00eat": 0.24197983796296296,
+        "Carburat gaspill\u00e9": 39.190000000000005
+    },
+    {
+        "Immatriculation": "GK-358-XV",
+        "Dur\u00e9e d'arr\u00eat": 0.011971898148148148,
+        "Carburat gaspill\u00e9": 0.52
+    },
+    {
+        "Immatriculation": "GN-778-QW",
+        "Dur\u00e9e d'arr\u00eat": 0.02330309027777778,
+        "Carburat gaspill\u00e9": 0.66
+    },
+    {
+        "Immatriculation": "ES-187-AG",
+        "Dur\u00e9e d'arr\u00eat": 0.0051236574074074075,
+        "Carburat gaspill\u00e9": 0.52
+    },
+    {
+        "Immatriculation": "GZ-283-LJ",
+        "Dur\u00e9e d'arr\u00eat": 0.0014014467592592592,
+        "Carburat gaspill\u00e9": 0.14
+    },
+    {
+        "Immatriculation": "HB-183-FM",
+        "Dur\u00e9e d'arr\u00eat": 0.04582508101851852,
+        "Carburat gaspill\u00e9": 3.7800000000000002
+    },
+    {
+        "Immatriculation": "GY-885-QM",
+        "Dur\u00e9e d'arr\u00eat": 0.148301875,
+        "Carburat gaspill\u00e9": 17.830000000000002
+    },
+    {
+        "Immatriculation": "HF-566-JV",
+        "Dur\u00e9e d'arr\u00eat": 0.5231567361111111,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HJ-749-AY",
+        "Dur\u00e9e d'arr\u00eat": 0.008015462962962962,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GQ-620-EQ",
+        "Dur\u00e9e d'arr\u00eat": 0.29954009259259257,
+        "Carburat gaspill\u00e9": 15.64
+    },
+    {
+        "Immatriculation": "GS-105-NP",
+        "Dur\u00e9e d'arr\u00eat": 0.0035617708333333335,
+        "Carburat gaspill\u00e9": 0.5
+    },
+    {
+        "Immatriculation": "HL-686-SV",
+        "Dur\u00e9e d'arr\u00eat": 0.0517035300925926,
+        "Carburat gaspill\u00e9": 4.960000000000001
+    },
+    {
+        "Immatriculation": "HL-708-SC",
+        "Dur\u00e9e d'arr\u00eat": 0.17638719907407407,
+        "Carburat gaspill\u00e9": 4.859999999999999
+    },
+    {
+        "Immatriculation": "HL-603-MC",
+        "Dur\u00e9e d'arr\u00eat": 0.07313208333333333,
+        "Carburat gaspill\u00e9": 1.9600000000000002
+    },
+    {
+        "Immatriculation": "ES-540-QB",
+        "Dur\u00e9e d'arr\u00eat": 0.001614039351851852,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "HJ-733-WC",
+        "Dur\u00e9e d'arr\u00eat": 0.046797743055555556,
+        "Carburat gaspill\u00e9": 2.59
+    },
+    {
+        "Immatriculation": "EQ-467-KN",
+        "Dur\u00e9e d'arr\u00eat": 0.05661299768518519,
+        "Carburat gaspill\u00e9": 3.78
+    },
+    {
+        "Immatriculation": "ER-826-GA",
+        "Dur\u00e9e d'arr\u00eat": 0.02255771990740741,
+        "Carburat gaspill\u00e9": 1.9300000000000002
+    },
+    {
+        "Immatriculation": "FR-573-VV",
+        "Dur\u00e9e d'arr\u00eat": 0.005938090277777778,
+        "Carburat gaspill\u00e9": 1.08
+    },
+    {
+        "Immatriculation": "FT-998-CC",
+        "Dur\u00e9e d'arr\u00eat": 0.0040753587962962965,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "DW-293-QW",
+        "Dur\u00e9e d'arr\u00eat": 0.025504131944444442,
+        "Carburat gaspill\u00e9": 1.0
+    },
+    {
+        "Immatriculation": "GS-955-HZ",
+        "Dur\u00e9e d'arr\u00eat": 0.0036497569444444446,
+        "Carburat gaspill\u00e9": 0.38
+    },
+    {
+        "Immatriculation": "EQ-785-MF",
+        "Dur\u00e9e d'arr\u00eat": 0.13678613425925926,
+        "Carburat gaspill\u00e9": 13.7
+    },
+    {
+        "Immatriculation": "GV-706-VJ",
+        "Dur\u00e9e d'arr\u00eat": 0.004188819444444445,
+        "Carburat gaspill\u00e9": 0.11
+    },
+    {
+        "Immatriculation": "GT-494-NY",
+        "Dur\u00e9e d'arr\u00eat": 0.005984236111111111,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GQ-951-NB",
+        "Dur\u00e9e d'arr\u00eat": 0.1918870138888889,
+        "Carburat gaspill\u00e9": 8.780000000000001
+    },
+    {
+        "Immatriculation": "HM-312-EF",
+        "Dur\u00e9e d'arr\u00eat": 0.003323148148148148,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "DX-808-BN",
+        "Dur\u00e9e d'arr\u00eat": 0.0014246064814814816,
+        "Carburat gaspill\u00e9": 0.38
+    },
+    {
+        "Immatriculation": "EW-511-SC",
+        "Dur\u00e9e d'arr\u00eat": 0.013700543981481482,
+        "Carburat gaspill\u00e9": 1.88
+    },
+    {
+        "Immatriculation": "GJ-484-DE",
+        "Dur\u00e9e d'arr\u00eat": 0.0039008449074074076,
+        "Carburat gaspill\u00e9": 1.05
+    },
+    {
+        "Immatriculation": "EF-033-FV",
+        "Dur\u00e9e d'arr\u00eat": 0.018530567129629628,
+        "Carburat gaspill\u00e9": 1.1
+    },
+    {
+        "Immatriculation": "GR-289-KS",
+        "Dur\u00e9e d'arr\u00eat": 0.04556424768518519,
+        "Carburat gaspill\u00e9": 1.31
+    },
+    {
+        "Immatriculation": "GN-127-TG",
+        "Dur\u00e9e d'arr\u00eat": 0.004588310185185185,
+        "Carburat gaspill\u00e9": 0.5
+    },
+    {
+        "Immatriculation": "GR-208-RN",
+        "Dur\u00e9e d'arr\u00eat": 0.031739918981481485,
+        "Carburat gaspill\u00e9": 1.01
+    },
+    {
+        "Immatriculation": "GQ-778-RL",
+        "Dur\u00e9e d'arr\u00eat": 0.0033032060185185183,
+        "Carburat gaspill\u00e9": 0.63
+    },
+    {
+        "Immatriculation": "GS-041-MQ",
+        "Dur\u00e9e d'arr\u00eat": 0.08020082175925926,
+        "Carburat gaspill\u00e9": 4.130000000000001
+    },
+    {
+        "Immatriculation": "GY-678-JL",
+        "Dur\u00e9e d'arr\u00eat": 0.012524062499999999,
+        "Carburat gaspill\u00e9": 0.0
+    },
+    {
+        "Immatriculation": "GS-180-PT",
+        "Dur\u00e9e d'arr\u00eat": 0.2054049652777778,
+        "Carburat gaspill\u00e9": 5.4399999999999995
+    },
+    {
+        "Immatriculation": "HL-941-WM",
+        "Dur\u00e9e d'arr\u00eat": 0.010626388888888888,
+        "Carburat gaspill\u00e9": 0.97
+    },
+    {
+        "Immatriculation": "HM-932-BL",
+        "Dur\u00e9e d'arr\u00eat": 0.019927268518518518,
+        "Carburat gaspill\u00e9": 1.96
+    },
+    {
+        "Immatriculation": "HK-124-KF",
+        "Dur\u00e9e d'arr\u00eat": 0.004290752314814815,
+        "Carburat gaspill\u00e9": 0.19
+    }
+]
