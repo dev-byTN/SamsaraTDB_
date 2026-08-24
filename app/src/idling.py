@@ -81,9 +81,5 @@ def compute_idling_reports(idling):
             "Carburat gaspillé": values["fuel"]
         })
 
-    # ✅ Sauvegarde
-    with open("idling.json", "w") as f:
-        json.dump(idling_computed, f, indent=4)
-
     return idling_computed
 
