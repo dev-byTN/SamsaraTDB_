@@ -154,7 +154,7 @@ if __name__ == "__main__":
     main = gather_data(join_vehicles, fuel, "Immatriculation")
     main = gather_data(main, idling_computed, "Immatriculation")
     
-    main = get_correspondant_site(main, site_samsara)
+    main = get_correspondant_site(main, site_samsara, site_SIP2)
     main = get_health_status(main, active_gateway)
     main = get_vehicle_segment(main, sip2)
     main = is_vehicle_sold(main, sip2)

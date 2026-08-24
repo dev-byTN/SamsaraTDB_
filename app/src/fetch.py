@@ -67,7 +67,7 @@ def get_platform():
     return samsara_site, sip2_site
 
 
-def get_correspondant_site(conso, site):
+def get_correspondant_site(conso, site, sip2):
 
     for i in conso:
         for j in site:
@@ -76,7 +76,16 @@ def get_correspondant_site(conso, site):
                     new_site = j["Site"]
                     break
             except:
-                new_site = "No site attributed"
+                for k in sip2:
+                    if i["Immatriculation"] == k["Immatriculation"]:
+                        new_site = k["Etablissement opérationnel"]
+                        break
+                    new_site = "No site attributed"
+
+                for l in site:
+                    if new_site == l["Site SIP2"]:
+                        new_site = l["Sites(2)"]
+                        break
 
         i.update({"site" : new_site})   
 
