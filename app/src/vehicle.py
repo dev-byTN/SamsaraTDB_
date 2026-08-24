@@ -110,7 +110,7 @@ def immat_error(vehicle, parc):
                 try:
                     if i["Semaine"] == week:
                             immat_error = "vrai"
-                    else : immat_error = "faux"
+                    else : immat_error = "faux" 
                 except:
                     immat_error = "faux"  
             else : immat_error = "faux"
