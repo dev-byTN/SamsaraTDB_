@@ -1,5 +1,5 @@
 import pandas as pd
-
+from .fuel import week
 def get_vehicles_info(list):
 
     list_vehicle = []
@@ -108,15 +108,11 @@ def immat_error(vehicle, parc):
         if i["Famille"] == "Pas sur SIP2":
             if i['Vehicule'] == "Oui":
                 try:
-                    if i["Semaine"] == 22:
-                        for j in parc:
-                            if i["VIN"] == j["N° de série"]:
-                                immat_error = "faux"
-                                break
+                    if i["Semaine"] == week:
                             immat_error = "vrai"
                     else : immat_error = "faux"
                 except:
-                    immat_error = "vrai"  
+                    immat_error = "faux"  
             else : immat_error = "faux"
         else : immat_error = "faux"
         i.update({"Erreur Immat" : immat_error})
